@@ -1,0 +1,204 @@
+<resources>
+    <string name="app_name" translatable="false">CryptoVault</string>
+
+    <string name="create_pin_code">Create PIN-code</string>
+    <string name="re_enter_pin_code">Re-enter PIN-code</string>
+    <string name="enter_pin_code">Enter PIN-code</string>
+    <string name="answer">Answer</string>
+    <string name="biometric_authentication">Biometric authentication</string>
+    <string name="confirm">Confirm</string>
+    <string name="question_answer_field_is_blank">Question or answer field is blank</string>
+    <string name="incorrect_pin_code_tries_remaining">Incorrect PIN-code. Tries remaining-</string>
+    <string name="cancel">Cancel</string>
+    <string name="restore_account">Restore account</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="all_data_will_be_cleared">All data will be cleared and you will not be able to restore them</string>
+    <string name="ok">OK</string>
+    <string name="you_can_change_pin_code">You can change PIN-code in settings</string>
+    <string name="wrong_answer">Wrong answer</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="open_in_browser">Open in browser</string>
+    <string name="this_action_will_permanently_delete">This action will permanently delete your password</string>
+    <string name="incorrect_link">Incorrect link</string>
+    <string name="sort_by">Sort by</string>
+    <string name="restore">Restore</string>
+    <string name="has_been_deleted_successfully">Has been deleted successfully</string>
+    <string name="new_vault">New Vault</string>
+    <string name="required">*required</string>
+    <string name="search">Search…</string>
+    <string name="fill_required_fields">Fill required fields</string>
+    <string name="generate">Generate</string>
+    <string name="symbols">symbols</string>
+    <string name="new_card">New Card</string>
+    <string name="navigation_panel">Navigation</string>
+    <string name="vaults">VAULTS</string>
+    <string name="cards">CARDS</string>
+    <string name="secured_passwords">SECURED PASSWORDS</string>
+    <string name="reused_passwords">REUSED PASSWORDS</string>
+    <string name="attention_needed">ATTENTION NEEDED</string>
+    <string name="some_of_your_passwords_seem_vulnerable">Some of your passwords seem vulnerable</string>
+    <string name="browse">Browse</string>
+    <string name="favorite">Favorite</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="characters">CHARACTERS</string>
+    <string name="change">CHANGE</string>
+    <string name="successfully_copied">Successfully copied</string>
+    <string name="language">Language</string>
+    <string name="pin_and_secret_word">PIN and Secret Word</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="faq">FAQ</string>
+    <string name="you_can_reach_out_to_us_via">You can reach out to us via this email in case of any bugs or suggestions:</string>
+    <string name="official_gmail">Official gmail</string>
+    <string name="pin_code">PIN-code</string>
+    <string name="secret_word">Secret Word</string>
+    <string name="pin_code_must_contain_only_4_digits">PIN-code must contain only 4 digits</string>
+    <string name="new_pin_code_was_successfully_saved">New PIN-code has been successfully saved</string>
+    <string name="secret_word_must_contain_at_least">Secret Word must contain at least 1 symbol</string>
+    <string name="new_secret_word_was_successfully_saved">New Secret Word has been successfully saved</string>
+
+    <string name="home">Home</string>
+    <string name="statistics">Statistics</string>
+    <string name="password_generator">Password Generator</string>
+    <string name="settings">Settings</string>
+
+    <string-array name="security_question_list">
+        <item>In what city were you born?</item>
+        <item>What was the first car you owned?</item>
+        <item>Who is your favorite historical figure?</item>
+        <item>What is your favorite book?</item>
+        <item>What is your favorite movie?</item>
+        <item>What is your mother\'s maiden name?</item>
+        <item>What is the name of your first pet?</item>
+        <item>What is the model of your first cellphone?</item>
+        <item>What is your favorite vacation destination?</item>
+        <item>What is the name of your childhood best friend?</item>
+    </string-array>
+    <string-array name="option_menu_pin_list">
+        <item>Favorite</item>
+        <item>Edit</item>
+        <item>Delete</item>
+    </string-array>
+    <string-array name="sorting_type_list">
+        <item>Date of creation</item>
+        <item>Service name</item>
+        <item>Username</item>
+    </string-array>
+    <string-array name="vault_creation_label_list">
+        <item>Service</item>
+        <item>Username</item>
+        <item>Link</item>
+        <item>Password</item>
+    </string-array>
+    <string-array name="vault_creation_username_list">
+        <item>Gmail, Facebook, Instagram…</item>
+        <item>Username, mail, id…</item>
+        <item>https://www.example.com</item>
+        <item>Avoid using 123 or qwerty</item>
+    </string-array>
+    <string-array name="switch_content_list">
+        <item>Numbers</item>
+        <item>Special signs</item>
+        <item>Uppercase letters</item>
+    </string-array>Bank name
+    <string-array name="card_creation_label_list">
+        <item>Bank name</item>
+        <item>Card number</item>
+        <item>CVV</item>
+        <item>Valid thru</item>
+        <item>Full name</item>
+    </string-array>
+    <string-array name="card_creation_placeholder_list">
+        <item>Visa, Mastercard etc.</item>
+        <item>0000 0000 0000 0000</item>
+        <item>123</item>
+        <item>12/24</item>
+        <item>John Doe</item>
+    </string-array>
+    <string-array name="problem_list">
+        <item>LENGTH</item>
+        <item>DIGITS</item>
+        <item>LOWERCASE</item>
+        <item>UPPERCASE</item>
+        <item>SIGNS</item>
+    </string-array>
+    <string-array name="pager_navigation_block_titles">
+        <item>VAULTS</item>
+        <item>CARDS</item>
+    </string-array>
+    <string-array name="pager_navigation_block_subtitles">
+        <item>Safe place for all of your vaults</item>
+        <item>Safe place for all of your cards</item>
+    </string-array>
+    <string-array name="button_row_with_main_button_texts">
+        <item>ALL</item>
+        <item>FAVORITES</item>
+    </string-array>
+    <string-array name="password_generator_buttons">
+        <item>DIGIT</item>
+        <item>SIGN</item>
+        <item>UPPERCASE</item>
+    </string-array>
+    <string-array name="general_ui_column_labels">
+        <item>Appearance</item>
+        <item>Privacy</item>
+        <item>Help</item>
+    </string-array>
+    <string-array name="language_list">
+        <item>English</item>
+        <item>Arabic</item>
+        <item>Spanish</item>
+        <item>French</item>
+        <item>Hindi</item>
+        <item>Armenian</item>
+        <item>Japanese</item>
+        <item>Kazakh</item>
+        <item>Korean</item>
+        <item>Mongolian</item>
+        <item>Polish</item>
+        <item>Portuguese</item>
+        <item>Russian</item>
+        <item>Ukrainian</item>
+        <item>Uzbek</item>
+        <item>Vietnamese</item>
+        <item>Chinese</item>
+    </string-array>
+    <string-array name="faq_question_list">
+        <item>How are my logins and passwords securely stored in your application?</item>
+        <item>Can I trust the security of locally stored passwords in your application?</item>
+        <item>What happens if I forget the password for the application? Is there a way to recover it?</item>
+        <item>Can anyone other than me access my logins and passwords?</item>
+    </string-array>
+    <string-array name="faq_answer_list">
+        <item>Your data is stored exclusively on your device, and we do not collect it for transmission to third parties.</item>
+        <item>Absolutely, as we use modern end-to-end encryption. Moreover, a unique key is created for each device, preventing mass hacking attempts.</item>
+        <item>If you forget the application password, you will need to enter the Secret Word to recover the data. You can always check and change it in the settings by finding the best combination. However, if you forget both your PIN and Secret Word, you won\'t be able to regain access to your account.</item>
+        <item>No, as we never request or collect your data without your consent.</item>
+    </string-array>
+
+    
+    <string name="crypto_vault_team_gmail" translatable="false">cryptovault.team@gmail.com</string>
+
+    <string-array name="language_original_list" translatable="false">
+        <item>English</item>
+        <item>العربية</item>
+        <item>Español</item>
+        <item>Français</item>
+        <item>हिन्दी</item>
+        <item>Հայերեն</item>
+        <item>日本語</item>
+        <item>Қазақ тілі</item>
+        <item>한국어</item>
+        <item>Монгол</item>
+        <item>Polski</item>
+        <item>Português</item>
+        <item>Русский</item>
+        <item>Українська</item>
+        <item>O\'zbekcha</item>
+        <item>Tiếng Việt</item>
+        <item>中文</item>
+    </string-array>
+
+</resources>

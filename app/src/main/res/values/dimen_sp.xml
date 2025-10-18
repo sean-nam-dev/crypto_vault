@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sp_pin_code">30sp</dimen>
+    <dimen name="sp_enter_pin_code">30sp</dimen>
+
+    <dimen name="sp_question_block">25sp</dimen>
+    <dimen name="sp_answer_block">20sp</dimen>
+
+    <dimen name="sp_password_item_block_title">20sp</dimen>
+    <dimen name="sp_password_item_block_subtitle">17sp</dimen>
+
+    <dimen name="sp_favorite_item_text">11sp</dimen>
+
+    <dimen name="sp_enormous_text">130sp</dimen>
+    <dimen name="sp_huge_text">90sp</dimen>
+    <dimen name="sp_very_big_text">40sp</dimen>
+    <dimen name="sp_slightly_big_text">30sp</dimen>
+    <dimen name="sp_big_text">25sp</dimen>
+    <dimen name="sp_primary_text">20sp</dimen>
+    <dimen name="sp_secondary_text">15sp</dimen>
+    <dimen name="sp_tertiary_text">12sp</dimen>
+
+    <dimen name="thirty_five_sp">35sp</dimen>
+    <dimen name="twenty_four_sp">24sp</dimen>
+    <dimen name="twenty_sp">20sp</dimen>
+    <dimen name="sixteen_sp">16sp</dimen>
+    <dimen name="twelve_sp">12sp</dimen>
+</resources>

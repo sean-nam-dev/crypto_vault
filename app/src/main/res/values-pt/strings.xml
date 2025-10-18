@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="create_pin_code">Criar PIN</string>
+    <string name="re_enter_pin_code">Reinserir PIN</string>
+    <string name="enter_pin_code">Inserir PIN</string>
+    <string name="answer">Resposta</string>
+    <string name="biometric_authentication">Autenticação biométrica</string>
+    <string name="confirm">Confirmar</string>
+    <string name="question_answer_field_is_blank">Campo de pergunta ou resposta está em branco</string>
+    <string name="incorrect_pin_code_tries_remaining">PIN incorreto. Tentativas restantes-</string>
+    <string name="cancel">Cancelar</string>
+    <string name="restore_account">Restaurar conta</string>
+    <string name="create_new_account">Criar nova conta</string>
+    <string name="are_you_sure">Tem certeza?</string>
+    <string name="all_data_will_be_cleared">Todos os dados serão apagados e você não poderá restaurá-los</string>
+    <string name="ok">OK</string>
+    <string name="you_can_change_pin_code">Você pode alterar o PIN nas configurações</string>
+    <string name="wrong_answer">Resposta incorreta</string>
+    <string name="username">Nome de usuário</string>
+    <string name="password">Senha</string>
+    <string name="open_in_browser">Abrir no navegador</string>
+    <string name="this_action_will_permanently_delete">Esta ação excluirá permanentemente sua senha</string>
+    <string name="incorrect_link">Link incorreto</string>
+    <string name="sort_by">Ordenar por</string>
+    <string name="restore">Restaurar</string>
+    <string name="has_been_deleted_successfully">Foi excluído com sucesso</string>
+    <string name="new_vault">Novo cofre</string>
+    <string name="required">*obrigatório</string>
+    <string name="search">Pesquisar…</string>
+    <string name="fill_required_fields">Preencha os campos obrigatórios</string>
+    <string name="generate">Gerar</string>
+    <string name="symbols">símbolos</string>
+    <string name="new_card">Novo cartão</string>
+    <string name="navigation_panel">Navegação</string>
+    <string name="vaults">COFRES</string>
+    <string name="cards">CARTÕES</string>
+    <string name="secured_passwords">SENHAS SEGURAS</string>
+    <string name="reused_passwords">SENHAS REUTILIZADAS</string>
+    <string name="attention_needed">ATENÇÃO NECESSÁRIA</string>
+    <string name="some_of_your_passwords_seem_vulnerable">Algumas de suas senhas parecem vulneráveis</string>
+    <string name="browse">Navegar</string>
+    <string name="favorite">Favorito</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Excluir</string>
+    <string name="characters">CARACTERES</string>
+    <string name="change">MUDAR</string>
+    <string name="successfully_copied">Copiado com sucesso</string>
+    <string name="language">Idioma</string>
+    <string name="pin_and_secret_word">PIN e Palavra Secreta</string>
+    <string name="contact_us">Contate-nos</string>
+    <string name="faq">Perguntas frequentes</string>
+    <string name="you_can_reach_out_to_us_via">Você pode entrar em contato conosco através deste e-mail em caso de bugs ou sugestões:</string>
+    <string name="official_gmail">Gmail oficial</string>
+    <string name="pin_code">PIN</string>
+    <string name="secret_word">Palavra Secreta</string>
+    <string name="pin_code_must_contain_only_4_digits">O PIN deve conter apenas 4 dígitos</string>
+    <string name="new_pin_code_was_successfully_saved">Novo PIN foi salvo com sucesso</string>
+    <string name="secret_word_must_contain_at_least">A Palavra Secreta deve conter pelo menos 1 símbolo</string>
+    <string name="new_secret_word_was_successfully_saved">Nova Palavra Secreta foi salva com sucesso</string>
+
+    <string name="home">Início</string>
+    <string name="statistics">Estatísticas</string>
+    <string name="password_generator">Gerador de Senhas</string>
+    <string name="settings">Configurações</string>
+
+    <string-array name="security_question_list">
+        <item>Em que cidade você nasceu?</item>
+        <item>Qual foi o primeiro carro que você possuiu?</item>
+        <item>Quem é seu personagem histórico favorito?</item>
+        <item>Qual é o seu livro favorito?</item>
+        <item>Qual é o seu filme favorito?</item>
+        <item>Qual é o sobrenome de solteira de sua mãe?</item>
+        <item>Qual é o nome do seu primeiro animal de estimação?</item>
+        <item>Qual é o modelo do seu primeiro celular?</item>
+        <item>Qual é o seu destino de férias favorito?</item>
+        <item>Qual é o nome do seu melhor amigo de infância?</item>
+    </string-array>
+    <string-array name="option_menu_pin_list">
+        <item>Favorito</item>
+        <item>Editar</item>
+        <item>Excluir</item>
+    </string-array>
+    <string-array name="sorting_type_list">
+        <item>Data de criação</item>
+        <item>Nome do serviço</item>
+        <item>Nome de usuário</item>
+    </string-array>
+    <string-array name="vault_creation_label_list">
+        <item>Serviço</item>
+        <item>Nome de usuário</item>
+        <item>Link</item>
+        <item>Senha</item>
+    </string-array>
+    <string-array name="vault_creation_username_list">
+        <item>Gmail, Facebook, Instagram…</item>
+        <item>Nome de usuário, e-mail, ID…</item>
+        <item>https://www.example.com</item>
+        <item>Avoid using 123 or qwerty</item>
+    </string-array>
+    <string-array name="switch_content_list">
+        <item>Números</item>
+        <item>Sinais especiais</item>
+        <item>Letras maiúsculas</item>
+    </string-array>
+    <string-array name="card_creation_label_list">
+        <item>Nome do Banco</item>
+        <item>Número do Cartão</item>
+        <item>CVV</item>
+        <item>Válido até</item>
+        <item>Nome Completo</item>
+    </string-array>
+    <string-array name="card_creation_placeholder_list">
+        <item>Visa, Mastercard etc.</item>
+        <item>0000 0000 0000 0000</item>
+        <item>123</item>
+        <item>12/24</item>
+        <item>John Doe</item>
+    </string-array>
+    <string-array name="problem_list">
+        <item>COMPRIMENTO</item>
+        <item>DÍGITOS</item>
+        <item>MÍNUSCULAS</item>
+        <item>MAIÚSCULAS</item>
+        <item>SINAIS</item>
+    </string-array>
+    <string-array name="pager_navigation_block_titles">
+        <item>COFRES</item>
+        <item>CARTÕES</item>
+    </string-array>
+    <string-array name="pager_navigation_block_subtitles">
+        <item>Lugar seguro para todos os seus cofres</item>
+        <item>Lugar seguro para todos os seus cartões</item>
+    </string-array>
+    <string-array name="button_row_with_main_button_texts">
+        <item>TODOS</item>
+        <item>FAVORITOS</item>
+    </string-array>
+    <string-array name="password_generator_buttons">
+        <item>DÍGITO</item>
+        <item>SINAL</item>
+        <item>LETRA MAIÚSCULA</item>
+    </string-array>
+    <string-array name="general_ui_column_labels">
+        <item>Aparência</item>
+        <item>Privacidade</item>
+        <item>Ajuda</item>
+    </string-array>
+    <string-array name="language_list">
+        <item>Inglês</item>
+        <item>Árabe</item>
+        <item>Espanhol</item>
+        <item>Francês</item>
+        <item>Hindi</item>
+        <item>Armênio</item>
+        <item>Japonês</item>
+        <item>Cazaque</item>
+        <item>Coreano</item>
+        <item>Mongol</item>
+        <item>Polonês</item>
+        <item>Português</item>
+        <item>Russo</item>
+        <item>Ucraniano</item>
+        <item>Uzbeque</item>
+        <item>Vietnamita</item>
+        <item>Chinês</item>
+    </string-array>
+    <string-array name="faq_question_list">
+        <item>Como meus logins e senhas são armazenados com segurança em seu aplicativo?</item>
+        <item>Posso confiar na segurança das senhas armazenadas localmente em seu aplicativo?</item>
+        <item>O que acontece se eu esquecer a senha do aplicativo? Existe uma maneira de recuperá-la?</item>
+        <item>Alguém além de mim pode acessar meus logins e senhas?</item>
+    </string-array>
+    <string-array name="faq_answer_list">
+        <item>Seus dados são armazenados exclusivamente em seu dispositivo, e não os coletamos para transmissão a terceiros.</item>
+        <item>Absolutamente, pois usamos criptografia de ponta a ponta moderna. Além disso, uma chave única é criada para cada dispositivo, impedindo tentativas de hacking em massa.</item>
+        <item>Se você esquecer a senha do aplicativo, precisará inserir a Palavra Secreta para recuperar os dados. Você sempre pode verificar e alterá-la nas configurações encontrando a melhor combinação. No entanto, se você esquecer tanto o PIN quanto a Palavra Secreta, não conseguirá recuperar o acesso à sua conta.</item>
+        <item>Não, pois nunca solicitamos nem coletamos seus dados sem seu consentimento.</item>
+    </string-array>
+</resources>

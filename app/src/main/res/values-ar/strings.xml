@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="create_pin_code">إنشاء رمز PIN</string>
+    <string name="re_enter_pin_code">أعد إدخال رمز PIN</string>
+    <string name="enter_pin_code">أدخل رمز PIN</string>
+    <string name="answer">الجواب</string>
+    <string name="biometric_authentication">المصادقة البيومترية</string>
+    <string name="confirm">تأكيد</string>
+    <string name="question_answer_field_is_blank">حقل السؤال أو الإجابة فارغ</string>
+    <string name="incorrect_pin_code_tries_remaining">رمز PIN غير صحيح. المحاولات المتبقية -</string>
+    <string name="cancel">إلغاء</string>
+    <string name="restore_account">استعادة الحساب</string>
+    <string name="create_new_account">إنشاء حساب جديد</string>
+    <string name="are_you_sure">هل أنت متأكد؟</string>
+    <string name="all_data_will_be_cleared">سيتم مسح جميع البيانات ولن تتمكن من استعادتها</string>
+    <string name="ok">حسنًا</string>
+    <string name="you_can_change_pin_code">يمكنك تغيير رمز PIN في الإعدادات</string>
+    <string name="wrong_answer">إجابة خاطئة</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="password">كلمة المرور</string>
+    <string name="open_in_browser">افتح في المتصفح</string>
+    <string name="this_action_will_permanently_delete">سيقوم هذا الإجراء بحذف كلمة المرور الخاصة بك نهائيًا</string>
+    <string name="incorrect_link">رابط غير صحيح</string>
+    <string name="sort_by">الترتيب حسب</string>
+    <string name="restore">استعادة</string>
+    <string name="has_been_deleted_successfully">تم حذفه بنجاح</string>
+    <string name="new_vault">خزانة جديدة</string>
+    <string name="required">*مطلوب</string>
+    <string name="search">بحث…</string>
+    <string name="fill_required_fields">املأ الحقول المطلوبة</string>
+    <string name="generate">إنشاء</string>
+    <string name="symbols">رموز</string>
+    <string name="new_card">بطاقة جديدة</string>
+    <string name="navigation_panel">التنقل</string>
+    <string name="vaults">الخزائن</string>
+    <string name="cards">البطاقات</string>
+    <string name="secured_passwords">كلمات المرور المؤمنة</string>
+    <string name="reused_passwords">كلمات المرور المعاد استخدامها</string>
+    <string name="attention_needed">تحتاج إلى انتباه</string>
+    <string name="some_of_your_passwords_seem_vulnerable">بعض كلمات المرور الخاصة بك تبدو غير آمنة</string>
+    <string name="browse">تصفح</string>
+    <string name="favorite">المفضلة</string>
+    <string name="edit">تحرير</string>
+    <string name="delete">حذف</string>
+    <string name="characters">الأحرف</string>
+    <string name="change">تغيير</string>
+    <string name="successfully_copied">تم النسخ بنجاح</string>
+    <string name="language">اللغة</string>
+    <string name="pin_and_secret_word">رمز PIN وكلمة سرية</string>
+    <string name="contact_us">اتصل بنا</string>
+    <string name="faq">الأسئلة الشائعة</string>
+    <string name="you_can_reach_out_to_us_via">يمكنك الاتصال بنا عبر هذا البريد الإلكتروني في حالة وجود أي علل أو اقتراحات:</string>
+    <string name="official_gmail">جيميل رسمي</string>
+    <string name="pin_code">رمز PIN</string>
+    <string name="secret_word">كلمة سرية</string>
+    <string name="pin_code_must_contain_only_4_digits">يجب أن يحتوي رمز PIN على 4 أرقام فقط</string>
+    <string name="new_pin_code_was_successfully_saved">تم حفظ رمز PIN الجديد بنجاح</string>
+    <string name="secret_word_must_contain_at_least">يجب أن تحتوي كلمة السر على على الأقل 1 رمز</string>
+    <string name="new_secret_word_was_successfully_saved">تم حفظ كلمة المرور السرية الجديدة بنجاح</string>
+
+    <string name="home">الصفحة الرئيسية</string>
+    <string name="statistics">الإحصائيات</string>
+    <string name="password_generator">مولد كلمات المرور</string>
+    <string name="settings">الإعدادات</string>
+
+    <string-array name="security_question_list">
+        <item>في أي مدينة وُلِدت؟</item>
+        <item>ما هو أول سيارة كانت ملكك؟</item>
+        <item>من هو شخصيتك التاريخية المفضلة؟</item>
+        <item>ما هو كتابك المفضل؟</item>
+        <item>ما هو فيلمك المفضل؟</item>
+        <item>ما هو اسم عذراء والدتك؟</item>
+        <item>ما اسم أول حيوان أليف لديك؟</item>
+        <item>ما هو نموذج هاتفك المحمول الأول؟</item>
+        <item>ما هو وجهتك
+
+ المفضلة للعطلات؟</item>
+        <item>ما اسم صديقك المقرب في الطفولة؟</item>
+    </string-array>
+    <string-array name="option_menu_pin_list">
+        <item>المفضلة</item>
+        <item>تحرير</item>
+        <item>حذف</item>
+    </string-array>
+    <string-array name="sorting_type_list">
+        <item>تاريخ الإنشاء</item>
+        <item>اسم الخدمة</item>
+        <item>اسم المستخدم</item>
+    </string-array>
+    <string-array name="vault_creation_label_list">
+        <item>الخدمة</item>
+        <item>اسم المستخدم</item>
+        <item>الرابط</item>
+        <item>كلمة المرور</item>
+    </string-array>
+    <string-array name="vault_creation_username_list">
+        <item>جيميل، فيسبوك، إنستجرام…</item>
+        <item>اسم المستخدم، البريد الإلكتروني، الهوية…</item>
+        <item>https://www.example.com</item>
+        <item>تجنب استخدام 123 أو qwerty</item>
+    </string-array>
+    <string-array name="switch_content_list">
+        <item>الأرقام</item>
+        <item>الرموز الخاصة</item>
+        <item>الحروف الكبيرة</item>
+    </string-array>
+    <string-array name="card_creation_label_list">
+        <item>اسم البنك</item>
+        <item>رقم البطاقة</item>
+        <item>CVV</item>
+        <item>صالح حتى</item>
+        <item>الاسم الكامل</item>
+    </string-array>
+    <string-array name="card_creation_placeholder_list">
+        <item>فيزا وماستركارد الخ.</item>
+        <item>0000 0000 0000 0000</item>
+        <item>123</item>
+        <item>12/24</item>
+        <item>جون دو</item>
+    </string-array>
+    <string-array name="problem_list">
+        <item>الطول</item>
+        <item>الأرقام</item>
+        <item>الحروف الصغيرة</item>
+        <item>الحروف الكبيرة</item>
+        <item>الرموز</item>
+    </string-array>
+    <string-array name="pager_navigation_block_titles">
+        <item>الخزائن</item>
+        <item>البطاقات</item>
+    </string-array>
+    <string-array name="pager_navigation_block_subtitles">
+        <item>مكان آمن لجميع خزائنك</item>
+        <item>مكان آمن لجميع بطاقاتك</item>
+    </string-array>
+    <string-array name="button_row_with_main_button_texts">
+        <item>الكل</item>
+        <item>المفضلة</item>
+    </string-array>
+    <string-array name="password_generator_buttons">
+        <item>الأرقام</item>
+        <item>الرموز</item>
+        <item>الحروف الكبيرة</item>
+    </string-array>
+    <string-array name="general_ui_column_labels">
+        <item>المظهر</item>
+        <item>الخصوصية</item>
+        <item>المساعدة</item>
+    </string-array>
+    <string-array name="language_list">
+        <item>الإنجليزية</item>
+        <item>العربية</item>
+        <item>الإسبانية</item>
+        <item>الفرنسية</item>
+        <item>الهندية</item>
+        <item>الأرمينية</item>
+        <item>اليابانية</item>
+        <item>الكازاخية</item>
+        <item>الكورية</item>
+        <item>المنغولية</item>
+        <item>البولندية</item>
+        <item>البرتغالية</item>
+        <item>الروسية</item>
+        <item>الأوكرانية</item>
+        <item>الأوزبكية</item>
+        <item>الفيتنامية</item>
+        <item>الصينية</item>
+    </string-array>
+
+    <string-array name="faq_question_list">
+        <item>كيف يتم تخزين تسجيلاتي وكلمات المرور بشكل آمن في تطبيقك؟</item>
+        <item>هل يمكنني الثقة في أمان كلمات المرور المخزنة محليًا في تطبيقك؟</item>
+        <item>ماذا يحدث إذا نسيت كلمة المرور للتطبيق؟ هل هناك طريقة لاستعادتها؟</item>
+        <item>هل يمكن لأي شخص آخر غيري الوصول إلى تسجيلاتي وكلمات المرور؟</item>
+    </string-array>
+    <string-array name="faq_answer_list">
+        <item>تتم محافظة بياناتك حصريًا على جهازك، ونحن لا نقوم بجمعها لنقلها إلى أطراف ثالثة.</item>
+        <item>بالتأكيد، حيث نستخدم تشفيرًا نهاية إلى نهاية حديثًا. علاوة على ذلك، يتم إنشاء مفتاح فريد لكل جهاز، مما يمنع محاولات الاختراق الجماعية.</item>
+        <item>إذا نسيت كلمة مرور التطبيق، ستحتاج إلى إدخال كلمة السر السرية لاستعادة البيانات. يمكنك دائمًا التحقق وتغييرها في الإعدادات عن طريق العثور على أفضل تركيبة. ومع ذلك، إذا نسيت كل من رمز PIN الخاص بك وكلمة السر السرية، فلن تتمكن من استعادة الوصول إلى حسابك.</item>
+        <item>لا، حيث لا نطلب أبدًا أو نجمع بياناتك دون موافقتك.</item>
+    </string-array>
+</resources>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="create_pin_code">创建PIN码</string>
+    <string name="re_enter_pin_code">重新输入PIN码</string>
+    <string name="enter_pin_code">输入PIN码</string>
+    <string name="answer">答案</string>
+    <string name="biometric_authentication">生物识别认证</string>
+    <string name="confirm">确认</string>
+    <string name="question_answer_field_is_blank">问题或答案字段为空</string>
+    <string name="incorrect_pin_code_tries_remaining">PIN码错误。剩余尝试次数-</string>
+    <string name="cancel">取消</string>
+    <string name="restore_account">恢复账户</string>
+    <string name="create_new_account">创建新账户</string>
+    <string name="are_you_sure">您确定吗？</string>
+    <string name="all_data_will_be_cleared">所有数据将被清除，您将无法恢复它们</string>
+    <string name="ok">确定</string>
+    <string name="you_can_change_pin_code">您可以在设置中更改PIN码</string>
+    <string name="wrong_answer">错误的答案</string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="open_in_browser">在浏览器中打开</string>
+    <string name="this_action_will_permanently_delete">此操作将永久删除您的密码</string>
+    <string name="incorrect_link">不正确的链接</string>
+    <string name="sort_by">排序方式</string>
+    <string name="restore">恢复</string>
+    <string name="has_been_deleted_successfully">已成功删除</string>
+    <string name="new_vault">新保险库</string>
+    <string name="required">*必填</string>
+    <string name="search">搜索…</string>
+    <string name="fill_required_fields">填写必填字段</string>
+    <string name="generate">生成</string>
+    <string name="symbols">符号</string>
+    <string name="new_card">新卡片</string>
+    <string name="navigation_panel">导航</string>
+    <string name="vaults">保险库</string>
+    <string name="cards">卡片</string>
+    <string name="secured_passwords">安全密码</string>
+    <string name="reused_passwords">重复使用的密码</string>
+    <string name="attention_needed">需要注意</string>
+    <string name="some_of_your_passwords_seem_vulnerable">您的一些密码似乎有风险</string>
+    <string name="browse">浏览</string>
+    <string name="favorite">收藏</string>
+    <string name="edit">编辑</string>
+    <string name="delete">删除</string>
+    <string name="characters">字符</string>
+    <string name="change">更改</string>
+    <string name="successfully_copied">成功复制</string>
+    <string name="language">语言</string>
+    <string name="pin_and_secret_word">PIN码和秘密词</string>
+    <string name="contact_us">联系我们</string>
+    <string name="faq">常见问题解答</string>
+    <string name="you_can_reach_out_to_us_via">如有任何错误或建议，您可以通过此电子邮件联系我们：</string>
+    <string name="official_gmail">官方Gmail</string>
+    <string name="pin_code">PIN码</string>
+    <string name="secret_word">秘密词</string>
+    <string name="pin_code_must_contain_only_4_digits">PIN码必须仅包含4位数字</string>
+    <string name="new_pin_code_was_successfully_saved">新PIN码已成功保存</string>
+    <string name="secret_word_must_contain_at_least">秘密词必须至少包含1个符号</string>
+    <string name="new_secret_word_was_successfully_saved">新秘密词已成功保存</string>
+
+    <string name="home">主页</string>
+    <string name="statistics">统计数据</string>
+    <string name="password_generator">密码生成器</string>
+    <string name="settings">设置</string>
+
+    <string-array name="security_question_list">
+        <item>您出生于哪个城市？</item>
+        <item>您拥有的第一辆车是什么？</item>
+        <item>您最喜欢的历史人物是谁？</item>
+        <item>您最喜欢的书是什么？</item>
+        <item>您最喜欢的电影是什么？</item>
+        <item>您母亲的娘家姓是什么？</item>
+        <item>您的第一只宠物的名字是什么？</item>
+        <item>您的第一部手机的型号是什么？</item>
+        <item>您最喜欢的度假地点是哪里？</item>
+        <item>您儿时最好的朋友的名字是什么？</item>
+
+
+    </string-array>
+    <string-array name="option_menu_pin_list">
+        <item>收藏</item>
+        <item>编辑</item>
+        <item>删除</item>
+    </string-array>
+    <string-array name="sorting_type_list">
+        <item>创建日期</item>
+        <item>服务名称</item>
+        <item>用户名</item>
+    </string-array>
+    <string-array name="vault_creation_label_list">
+        <item>服务</item>
+        <item>用户名</item>
+        <item>链接</item>
+        <item>密码</item>
+    </string-array>
+    <string-array name="vault_creation_username_list">
+        <item>Gmail、Facebook、Instagram…</item>
+        <item>用户名、邮件、ID…</item>
+        <item>https://www.example.com</item>
+        <item>避免使用123或qwerty</item>
+    </string-array>
+    <string-array name="switch_content_list">
+        <item>数字</item>
+        <item>特殊符号</item>
+        <item>大写字母</item>
+    </string-array>
+    <string-array name="card_creation_label_list">
+        <item>维萨卡、万事达卡等</item>
+        <item>卡号</item>
+        <item>CVV</item>
+        <item>有效期至</item>
+        <item>全名</item>
+    </string-array>
+    <string-array name="card_creation_placeholder_list">
+        <item>银行名</item>
+        <item>0000 0000 0000 0000</item>
+        <item>123</item>
+        <item>12/24</item>
+        <item>John Doe</item>
+    </string-array>
+    <string-array name="problem_list">
+        <item>长度</item>
+        <item>数字</item>
+        <item>小写字母</item>
+        <item>大写字母</item>
+        <item>符号</item>
+    </string-array>
+    <string-array name="pager_navigation_block_titles">
+        <item>保险库</item>
+        <item>卡片</item>
+    </string-array>
+    <string-array name="pager_navigation_block_subtitles">
+        <item>所有保险库的安全位置</item>
+        <item>所有卡片的安全位置</item>
+    </string-array>
+    <string-array name="button_row_with_main_button_texts">
+        <item>全部</item>
+        <item>收藏夹</item>
+    </string-array>
+    <string-array name="password_generator_buttons">
+        <item>数字</item>
+        <item>符号</item>
+        <item>大写字母</item>
+    </string-array>
+    <string-array name="general_ui_column_labels">
+        <item>外观</item>
+        <item>隐私</item>
+        <item>帮助</item>
+    </string-array>
+    <string-array name="language_list">
+        <item>英语</item>
+        <item>阿拉伯语</item>
+        <item>西班牙语</item>
+        <item>法语</item>
+        <item>印地语</item>
+        <item>亚美尼亚语</item>
+        <item>日语</item>
+        <item>哈萨克语</item>
+        <item>韩语</item>
+        <item>蒙古语</item>
+        <item>波兰语</item>
+        <item>葡萄牙语</item>
+        <item>俄语</item>
+        <item>乌克兰语</item>
+        <item>乌兹别克语</item>
+        <item>越南语</item>
+        <item>中文</item>
+    </string-array>
+    <string-array name="faq_question_list">
+        <item>我的登录信息和密码如何安全存储在您的应用程序中？</item>
+        <item>我可以信任您的应用程序中本地存储的密码的安全性吗？</item>
+        <item>如果我忘记了应用程序的密码会发生什么？有办法恢复吗？</item>
+        <item>除我之外，还有其他人可以访问我的登录信息和密码吗？</item>
+    </string-array>
+    <string-array name="faq_answer_list">
+        <item>您的数据仅存储在您的设备上，我们不会收集它以传输给第三方。</item>
+        <item>绝对可以，因为我们使用现代的端到端加密。此外，针对每个设备创建了唯一的密钥，防止了大规模的黑客攻击。</item>
+        <item>如果您忘记了应用程序的密码，您需要输入秘密词以恢复数据。您始终可以通过在设置中找到最佳组合来检查和更改它。但是，如果您同时忘记了PIN和秘密词，您将无法重新访问您的帐户。</item>
+        <item>不，因为我们从不在未经您同意的情况下请求或收集您的数据。</item>
+    </string-array>
+</resources>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="create_pin_code">Créer le code PIN</string>
+    <string name="re_enter_pin_code">Réintroduire le code PIN</string>
+    <string name="enter_pin_code">Entrer le code PIN</string>
+    <string name="answer">Réponse</string>
+    <string name="biometric_authentication">Authentification biométrique</string>
+    <string name="confirm">Confirmer</string>
+    <string name="question_answer_field_is_blank">Le champ de question ou de réponse est vide</string>
+    <string name="incorrect_pin_code_tries_remaining">Code PIN incorrect. Essais restants-</string>
+    <string name="cancel">Annuler</string>
+    <string name="restore_account">Restaurer le compte</string>
+    <string name="create_new_account">Créer un nouveau compte</string>
+    <string name="are_you_sure">Êtes-vous sûr ?</string>
+    <string name="all_data_will_be_cleared">Toutes les données seront effacées et vous ne pourrez pas les restaurer</string>
+    <string name="ok">OK</string>
+    <string name="you_can_change_pin_code">Vous pouvez changer le code PIN dans les paramètres</string>
+    <string name="wrong_answer">Mauvaise réponse</string>
+    <string name="username">Nom d\'utilisateur</string>
+    <string name="password">Mot de passe</string>
+    <string name="open_in_browser">Ouvrir dans le navigateur</string>
+    <string name="this_action_will_permanently_delete">Cette action supprimera définitivement votre mot de passe</string>
+    <string name="incorrect_link">Lien incorrect</string>
+    <string name="sort_by">Trier par</string>
+    <string name="restore">Restaurer</string>
+    <string name="has_been_deleted_successfully">A été supprimé avec succès</string>
+    <string name="new_vault">Nouveau coffre-fort</string>
+    <string name="required">*obligatoire</string>
+    <string name="search">Rechercher…</string>
+    <string name="fill_required_fields">Remplir les champs obligatoires</string>
+    <string name="generate">Générer</string>
+    <string name="symbols">symboles</string>
+    <string name="new_card">Nouvelle carte</string>
+    <string name="navigation_panel">Navigation</string>
+    <string name="vaults">COFFRES</string>
+    <string name="cards">CARTES</string>
+    <string name="secured_passwords">MOTS DE PASSE SÉCURISÉS</string>
+    <string name="reused_passwords">MOTS DE PASSE RÉUTILISÉS</string>
+    <string name="attention_needed">ATTENTION REQUISE</string>
+    <string name="some_of_your_passwords_seem_vulnerable">Certains de vos mots de passe semblent vulnérables</string>
+    <string name="browse">Parcourir</string>
+    <string name="favorite">Favori</string>
+    <string name="edit">Modifier</string>
+    <string name="delete">Supprimer</string>
+    <string name="characters">CARACTÈRES</string>
+    <string name="change">CHANGER</string>
+    <string name="successfully_copied">Copié avec succès</string>
+    <string name="language">Langue</string>
+    <string name="pin_and_secret_word">PIN et Mot Secret</string>
+    <string name="contact_us">Contactez-nous</string>
+    <string name="faq">FAQ</string>
+    <string name="you_can_reach_out_to_us_via">Vous pouvez nous contacter via cet e-mail en cas de bugs ou de suggestions :</string>
+    <string name="official_gmail">Gmail officiel</string>
+    <string name="pin_code">Code PIN</string>
+    <string name="secret_word">Mot Secret</string>
+    <string name="pin_code_must_contain_only_4_digits">Le code PIN doit contenir uniquement 4 chiffres</string>
+    <string name="new_pin_code_was_successfully_saved">Le nouveau code PIN a été enregistré avec succès</string>
+    <string name="secret_word_must_contain_at_least">Le Mot Secret doit contenir au moins 1 symbole</string>
+    <string name="new_secret_word_was_successfully_saved">Le nouveau Mot Secret a été enregistré avec succès</string>
+
+    <string name="home">Accueil</string>
+    <string name="statistics">Statistiques</string>
+    <string name="password_generator">Générateur de mot de passe</string>
+    <string name="settings">Paramètres</string>
+
+    <string-array name="security_question_list">
+        <item>Dans quelle ville êtes-vous né(e)?</item>
+        <item>Quelle a été la première voiture que vous avez possédée?</item>
+        <item>Qui est votre personnage historique préféré?</item>
+        <item>Quel est votre livre préféré?</item>
+        <item>Quel est votre film préféré?</item>
+        <item>Quel est le nom de jeune fille de votre mère?</item>
+        <item>Quel est le nom de votre premier animal de compagnie?</item>
+        <item>Quel est le modèle de votre premier téléphone portable?</item>
+        <item>Quelle est votre destination de vacances préférée?</item>
+        <item>Quel est le nom de votre meilleur(e) ami(e) d\'enfance?</item>
+    </string-array>
+    <string-array name="option_menu_pin_list">
+        <item>Favori</item>
+        <item>Modifier</item>
+        <item>Supprimer</item>
+    </string-array>
+    <string-array name="sorting_type_list">
+        <item>Date de création</item>
+        <item>Nom du service</item>
+        <item>Nom d\'utilisateur</item>
+    </string-array>
+    <string-array name="vault_creation_label_list">
+        <item>Service</item>
+        <item>Nom d\'utilisateur</item>
+        <item>Lien</item>
+        <item>Mot de passe</item>
+    </string-array>
+    <string-array name="vault_creation_username_list">
+        <item>Gmail, Facebook, Instagram…</item>
+        <item>Nom d\'utilisateur, e-mail, ID…</item>
+        <item>https://www.example.com</item>
+        <item>Évitez d\'utiliser 123 ou qwerty</item>
+    </string-array>
+    <string-array name="switch_content_list">
+        <item>Nombres</item>
+        <item>Signes spéciaux</item>
+        <item>Lettres majuscules</item>
+    </string-array>
+    <string-array name="card_creation_label_list">
+        <item>Nom de la banque</item>
+        <item>Numéro de la carte</item>
+        <item>CVV</item>
+        <item>Valide jusqu\'à</item>
+        <item>Nom complet</item>
+    </string-array>
+    <string-array name="card_creation_placeholder_list">
+        <item>Visa, Mastercard, etc.</item>
+        <item>0000 0000 0000 0000</item>
+        <item>123</item>
+        <item>12/24</item>
+        <item>John Doe</item>
+    </string-array>
+    <string-array name="problem_list">
+        <item>LONGUEUR</item>
+        <item>CHIFFRES</item>
+        <item>MINUSCULES</item>
+        <item>MAJUSCULES</item>
+        <item>SYMBOLES</item>
+    </string-array>
+    <string-array name="pager_navigation_block_titles">
+        <item>COFFRES</item>
+        <item>CARTES</item>
+    </string-array>
+    <string-array name="pager_navigation_block_subtitles">
+        <item>Lieu sûr pour tous vos coffres</item>
+        <item>Lieu sûr pour toutes vos cartes</item>
+    </string-array>
+    <string-array name="button_row_with_main_button_texts">
+        <item>TOUS</item>
+        <item>FAVORIS</item>
+    </string-array>
+    <string-array name="password_generator_buttons">
+        <item>CHIFFRE</item>
+        <item>SIGNE</item>
+        <item>MAJUSCULE</item>
+    </string-array>
+    <string-array name="general_ui_column_labels">
+        <item>Apparence</item>
+        <item>Confidentialité</item>
+        <item>Aide</item>
+    </string-array>
+    <string-array name="language_list">
+        <item>Anglais</item>
+        <item>Arabe</item>
+        <item>Espagnol</item>
+        <item>Français</item>
+        <item>Hindi</item>
+        <item>Arménien</item>
+        <item>Japonais</item>
+        <item>Kazakh</item>
+        <item>Coréen</item>
+        <item>Mongol</item>
+        <item>Polonais</item>
+        <item>Portugais</item>
+        <item>Russe</item>
+        <item>Ukrainien</item>
+        <item>Ouzbek</item>
+        <item>Vietnamien</item>
+        <item>Chinois</item>
+    </string-array>
+
+    <string-array name="faq_question_list">
+        <item>Comment mes identifiants et mots de passe sont-ils sécurisés dans votre application?</item>
+        <item>Puis-je faire confiance à la sécurité des mots de passe stockés localement dans votre application?</item>
+        <item>Que se passe-t-il si j\'oublie le mot de passe de l\'application ? Existe-t-il un moyen de le récupérer?</item>
+        <item>Quelqu\'un d\'autre que moi peut-il accéder à mes identifiants et mots de passe?</item>
+    </string-array>
+    <string-array name="faq_answer_list">
+        <item>Vos données sont stockées exclusivement sur votre appareil et nous ne les collectons pas pour les transmettre à des tiers.</item>
+        <item>Absolument, car nous utilisons un chiffrement de bout en bout moderne. De plus, une clé unique est créée pour chaque appareil, ce qui empêche les tentatives de piratage massives.</item>
+        <item>Si vous oubliez le mot de passe de l\'application, vous devrez saisir le Mot Secret pour récupérer les données. Vous pouvez toujours le vérifier et le changer dans les paramètres en trouvant la meilleure combinaison. Cependant, si vous oubliez à la fois votre PIN et votre Mot Secret, vous ne pourrez pas récupérer l\'accès à votre compte.</item>
+        <item>Non, car nous ne demandons jamais ni ne collectons vos données sans votre consentement.</item>
+    </string-array>
+
+</resources>

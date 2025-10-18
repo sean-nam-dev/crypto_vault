@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="create_pin_code">PINコードを作成する</string>
+    <string name="re_enter_pin_code">PINコードを再入力する</string>
+    <string name="enter_pin_code">PINコードを入力する</string>
+    <string name="answer">回答</string>
+    <string name="biometric_authentication">生体認証</string>
+    <string name="confirm">確認</string>
+    <string name="question_answer_field_is_blank">質問または回答のフィールドが空白です</string>
+    <string name="incorrect_pin_code_tries_remaining">間違ったPINコード。試行回数-</string>
+    <string name="cancel">キャンセル</string>
+    <string name="restore_account">アカウントを復元する</string>
+    <string name="create_new_account">新しいアカウントを作成する</string>
+    <string name="are_you_sure">本当によろしいですか？</string>
+    <string name="all_data_will_be_cleared">すべてのデータが消去され、それらを復元することはできません</string>
+    <string name="ok">OK</string>
+    <string name="you_can_change_pin_code">設定でPINコードを変更できます</string>
+    <string name="wrong_answer">不正解</string>
+    <string name="username">ユーザー名</string>
+    <string name="password">パスワード</string>
+    <string name="open_in_browser">ブラウザで開く</string>
+    <string name="this_action_will_permanently_delete">この操作はパスワードを永久に削除します</string>
+    <string name="incorrect_link">不正なリンク</string>
+    <string name="sort_by">ソート方法</string>
+    <string name="restore">復元</string>
+    <string name="has_been_deleted_successfully">削除されました</string>
+    <string name="new_vault">新しいボールト</string>
+    <string name="required">*必須</string>
+    <string name="search">検索…</string>
+    <string name="fill_required_fields">必要なフィールドを入力してください</string>
+    <string name="generate">生成</string>
+    <string name="symbols">シンボル</string>
+    <string name="new_card">新しいカード</string>
+    <string name="navigation_panel">ナビゲーション</string>
+    <string name="vaults">ボールト</string>
+    <string name="cards">カード</string>
+    <string name="secured_passwords">セキュリティパスワード</string>
+    <string name="reused_passwords">再利用されたパスワード</string>
+    <string name="attention_needed">注意が必要</string>
+    <string name="some_of_your_passwords_seem_vulnerable">いくつかのパスワードが脆弱に見えます</string>
+    <string name="browse">閲覧</string>
+    <string name="favorite">お気に入り</string>
+    <string name="edit">編集</string>
+    <string name="delete">削除</string>
+    <string name="characters">文字</string>
+    <string name="change">変更</string>
+    <string name="successfully_copied">コピーが成功しました</string>
+    <string name="language">言語</string>
+    <string name="pin_and_secret_word">PINと秘密の単語</string>
+    <string name="contact_us">お問い合わせ</string>
+    <string name="faq">FAQ</string>
+    <string name="you_can_reach_out_to_us_via">バグや提案の場合は、このメールアドレス経由でお問い合わせいただけます：</string>
+    <string name="official_gmail">公式Gmail</string>
+    <string name="pin_code">PINコード</string>
+    <string name="secret_word">秘密の単語</string>
+    <string name="pin_code_must_contain_only_4_digits">PINコードは4桁の数字のみを含める必要があります</string>
+    <string name="new_pin_code_was_successfully_saved">新しいPINコードが正常に保存されました</string>
+    <string name="secret_word_must_contain_at_least">秘密の単語には少なくとも1つの記号を含める必要があります</string>
+    <string name="new_secret_word_was_successfully_saved">新しい秘密の単語が正常に保存されました</string>
+
+    <string name="home">ホーム</string>
+    <string name="statistics">統計</string>
+    <string name="password_generator">パスワード生成器</string>
+    <string name="settings">設定</string>
+
+    <string-array name="security_question_list">
+        <item>生まれた都市はどこですか？</item>
+        <item>最初の所有車は何ですか？</item>
+        <item>お気に入りの歴史的人物は誰ですか？</item>
+        <item>お気に入りの本は何ですか？</item>
+        <item>お気に入りの映画は何ですか？</item>
+        <item>母親の旧姓は何ですか？</item>
+        <item>最初のペットの名前は何ですか？</item>
+        <item>最初の携帯電話のモデルは何ですか？</item>
+        <item>お気に入りの休暇先はどこですか？</item>
+        <item>幼少期の親友の名前は何ですか？</item>
+    </string-array>
+    <string-array name="option_menu_pin_list">
+        <item>お気に入り</item>
+        <item>編集</item>
+        <item>削除</item>
+    </string-array>
+    <string-array name="sorting_type_list">
+        <item>作成日</item>
+        <item>サービス名</item>
+        <item>ユーザー名</item>
+    </string-array>
+    <string-array name="vault_creation_label_list">
+        <item>サービス</item>
+        <item>ユーザー名</item>
+        <item>リンク</item>
+        <item>パスワード</item>
+    </string-array>
+    <string-array name="vault_creation_username_list">
+        <item>Gmail、Facebook、Instagramなど</item>
+        <item>ユーザー名、メール、IDなど</item>
+        <item>https://www.example.com</item>
+        <item>123やqwertyは避けてください</item>
+    </string-array>
+    <string-array name="switch_content_list">
+        <item>数字</item>
+        <item>特殊記号</item>
+        <item>大文字の文字</item>
+    </string-array>
+    <string-array name="card_creation_label_list">
+        <item>ビザ、マスターカードなど</item>
+        <item>カード番号</item>
+        <item>CVV</item>
+        <item>有効期限</item>
+        <item>フルネーム</item>
+    </string-array>
+    <string-array name="card_creation_placeholder_list">
+        <item>銀行名</item>
+        <item>0000 0000 0000 0000</item>
+        <item>123</item>
+        <item>12/24</item>
+        <item>John Doe</item>
+    </string-array>
+    <string-array name="problem_list">
+        <item>長さ</item>
+        <item>数字</item>
+        <item>小文字</item>
+        <item>大文字</item>
+        <item>記号</item>
+    </string-array>
+    <string-array name="pager_navigation_block_titles">
+        <item>ボールト</item>
+        <item>カード</item>
+    </string-array>
+    <string-array name="pager_navigation_block_subtitles">
+        <item>すべてのボールトの安全な場所</item>
+        <item>すべてのカードの安全な場所</item>
+    </string-array>
+    <string-array name="button_row_with_main_button_texts">
+        <item>すべて</item>
+        <item>お気に入り</item>
+    </string-array>
+    <string-array name="password_generator_buttons">
+        <item>数字</item>
+        <item>記号</item>
+        <item>大文字の文字</item>
+    </string-array>
+    <string-array name="general_ui_column_labels">
+        <item>外観</item>
+        <item>プライバシー</item>
+        <item>ヘルプ</item>
+    </string-array>
+    <string-array name="language_list">
+        <item>英語</item>
+        <item>アラビア語</item>
+        <item>スペイン語</item>
+        <item>フランス語</item>
+        <item>ヒンディー語</item>
+        <item>アルメニア語</item>
+        <item>日本語</item>
+        <item>カザフ語</item>
+        <item>韓国語</item>
+        <item>モンゴル語</item>
+        <item>ポーランド語</item>
+        <item>ポルトガル語</item>
+        <item>ロシア語</item>
+        <item>ウクライナ語</item>
+        <item>ウズベク語</item>
+        <item>ベトナム語</item>
+        <item>中国語</item>
+    </string-array>
+    <string-array name="faq_question_list">
+        <item>ログイン情報とパスワードは、アプリ内で安全に保管されていますか？</item>
+        <item>アプリ内でローカルに保存されたパスワードのセキュリティを信頼できますか？</item>
+        <item>アプリのパスワードを忘れた場合、どうすれば復旧できますか？</item>
+        <item>ログイン情報とパスワードに他の人がアクセスできますか？</item>
+    </string-array>
+    <string-array name="faq_answer_list">
+        <item>データは完全にお使いのデバイスに保存され、第三者に転送するために収集されることはありません。</item>
+        <item>現代のエンドツーエンドの暗号化を使用しているため、完全に信頼できます。さらに、各デバイスに対して一意のキーが作成されるため、大規模なハッキング試行が防止されます。</item>
+        <item>アプリのパスワードを忘れた場合、データを復旧するには秘密の単語を入力する必要があります。最適な組み合わせを見つけるために設定でいつでも確認および変更できます。ただし、PINと秘密の単語の両方を忘れた場合は、アカウントに再びアクセスできなくなります。</item>
+        <item>いいえ、第三者の同意なしにデータを要求または収集することはありません。</item>
+    </string-array>
+</resources>

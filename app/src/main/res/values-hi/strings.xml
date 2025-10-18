@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="create_pin_code">पिन कोड बनाएं</string>
+    <string name="re_enter_pin_code">पिन कोड फिर से दर्ज करें</string>
+    <string name="enter_pin_code">पिन कोड दर्ज करें</string>
+    <string name="answer">उत्तर</string>
+    <string name="biometric_authentication">जीव चित्र प्रमाणीकरण</string>
+    <string name="confirm">पुष्टि करें</string>
+    <string name="question_answer_field_is_blank">प्रश्न या उत्तर का क्षेत्र खाली है</string>
+    <string name="incorrect_pin_code_tries_remaining">गलत पिन कोड। बची हुई कोशिशें -</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="restore_account">खाता बहाल करें</string>
+    <string name="create_new_account">नया खाता बनाएं</string>
+    <string name="are_you_sure">क्या आप सुनिश्चित हैं?</string>
+    <string name="all_data_will_be_cleared">सभी डेटा हटा दिया जाएगा और आप उन्हें पुनः स्थानांतरित नहीं कर पाएंगे</string>
+    <string name="ok">ठीक है</string>
+    <string name="you_can_change_pin_code">आप सेटिंग्स में पिन कोड बदल सकते हैं</string>
+    <string name="wrong_answer">गलत जवाब</string>
+    <string name="username">उपयोगकर्ता नाम</string>
+    <string name="password">पासवर्ड</string>
+    <string name="open_in_browser">ब्राउज़र में खोलें</string>
+    <string name="this_action_will_permanently_delete">यह कार्रवाई आपका पासवर्ड स्थायी रूप से हटा देगी</string>
+    <string name="incorrect_link">गलत लिंक</string>
+    <string name="sort_by">द्वारा क्रमबद्ध करें</string>
+    <string name="restore">बहाल करें</string>
+    <string name="has_been_deleted_successfully">सफलतापूर्वक हटा दिया गया है</string>
+    <string name="new_vault">नया खजाना</string>
+    <string name="required">*</string>
+    <string name="search">खोज…</string>
+    <string name="fill_required_fields">आवश्यक क्षेत्र भरें</string>
+    <string name="generate">उत्पन्न करें</string>
+    <string name="symbols">प्रतीक</string>
+    <string name="new_card">नई कार्ड</string>
+    <string name="navigation_panel">नेविगेशन</string>
+    <string name="vaults">खजाने</string>
+    <string name="cards">कार्ड्स</string>
+    <string name="secured_passwords">सुरक्षित पासवर्ड</string>
+    <string name="reused_passwords">पुनः उपयोगित पासवर्ड</string>
+    <string name="attention_needed">ध्यान चाहिए</string>
+    <string name="some_of_your_passwords_seem_vulnerable">आपके कुछ पासवर्ड संदिग्ध लगते हैं</string>
+    <string name="browse">ब्राउज़ करें</string>
+    <string name="favorite">पसंदीदा</string>
+    <string name="edit">संपादित करें</string>
+    <string name="delete">हटाएं</string>
+    <string name="characters">अक्षर</string>
+    <string name="change">बदलें</string>
+    <string name="successfully_copied">सफलतापूर्वक कॉपी किया गया</string>
+    <string name="language">भाषा</string>
+    <string name="pin_and_secret_word">पिन और गुप्त शब्द</string>
+    <string name="contact_us">हमसे संपर्क करें</string>
+    <string name="faq">सामान्य प्रश्न</string>
+    <string name="you_can_reach_out_to_us_via">किसी भी बग या सुझाव के मामले में आप हमें इस ईमेल के माध्यम से संपर्क कर सकते हैं:</string>
+    <string name="official_gmail">आधिकारिक जीमेल</string>
+    <string name="pin_code">पिन कोड</string>
+    <string name="secret_word">गुप्त शब्द</string>
+    <string name="pin_code_must_contain_only_4_digits">पिन कोड में केवल 4 अंक होने चाहिए</string>
+    <string name="new_pin_code_was_successfully_saved">नया पिन कोड सफलतापूर्वक सहेजा गया है</string>
+    <string name="secret_word_must_contain_at_least">गुप्त शब्द में कमसे कम 1 प्रतीक होना चाहिए</string>
+    <string name="new_secret_word_was_successfully_saved">नया गुप्त शब्द सफलतापूर्वक सहेजा गया है</string>
+
+    <string name="home">होम</string>
+    <string name="statistics">आँकड़े</string>
+    <string name="password_generator">पासवर्ड जेनरेटर</string>
+    <string name="settings">सेटिंग्स</string>
+
+    <string-array name="security_question_list">
+        <item>आपका जन्म का शहर कौन सा है?</item>
+        <item>आपकी पहली कार कौनसी थी?</item>
+        <item>आपका पसंदीदा ऐतिहासिक व्यक्ति कौन है?</item>
+        <item>आपका पसंदीदा किताब कौनसी है?</item>
+        <item>आपकी पसंदीदा फिल्म कौनसी है?</item>
+        <item>आपकी मां का कुलनाम क्या है?</item>
+        <item>आपके पहले पालतू जानवर का नाम क्या है?</item>
+        <item>आपके पहले सेलफोन का मॉडल क्या है?</item>
+        <item>आपका पसंदीदा छुट्टी का स्थान कौनसा है?</item>
+        <item>आपके बचपन के सबसे अच्छे दोस्त का नाम क्या है?</item>
+    </string-array>
+    <string-array name="option_menu_pin_list">
+        <item>पसंदीदा</item>
+        <item>संपादित करें</item>
+        <item>हटाएं</item>
+    </string-array>
+    <string-array name="sorting_type_list">
+        <item>निर्माण की तारीख</item>
+        <item>सेवा का नाम</item>
+        <item>उपयोगकर्ता नाम</item>
+    </string-array>
+    <string-array name="vault_creation_label_list">
+        <item>सेवा</item>
+        <item>उपयोगकर्ता नाम</item>
+        <item>लिंक</item>
+        <item>पासवर्ड</item>
+    </string-array>
+    <string-array name="vault_creation_username_list">
+        <item>जीमेल, फेसबुक, इंस्टाग्राम…</item>
+        <item>उपयोगकर्ता नाम, मेल, आईडी…</item>
+        <item>https://www.example.com</item>
+        <item>123 या qwerty का उपयोग न करें</item>
+    </string-array>
+    <string-array name="switch_content_list">
+        <item>संख्या</item>
+        <item>विशेष चिन्ह</item>
+        <item>ऊपरी केस अक्षर</item>
+    </string-array>
+    <string-array name="card_creation_label_list">
+        <item>बैंक का नाम</item>
+        <item>कार्ड नंबर</item>
+        <item>सीवीवी</item>
+        <item>मान्य थ्रू</item>
+        <item>पूरा नाम</item>
+    </string-array>
+    <string-array name="card_creation_placeholder_list">
+        <item>वीज़ा, मास्टरकार्ड आदि।</item>
+        <item>0000 0000 0000 0000</item>
+        <item>123</item>
+        <item>12/24</item>
+        <item>जॉन डो</item>
+    </string-array>
+    <string-array name="problem_list">
+        <item>लंबाई</item>
+        <item>अंक</item>
+        <item>छोटे अक्षर</item>
+        <item>बड़े अक्षर</item>
+        <item>चिन्ह</item>
+    </string-array>
+    <string-array name="pager_navigation_block_titles">
+        <item>खजाने</item>
+        <item>कार्ड्स</item>
+    </string-array>
+    <string-array name="pager_navigation_block_subtitles">
+        <item>आपके सभी खजानों के लिए सुरक्षित स्थान</item>
+        <item>आपके सभी कार्डों के लिए सुरक्षित स्थान</item>
+    </string-array>
+    <string-array name="button_row_with_main_button_texts">
+        <item>सभी</item>
+        <item>पसंदीदा</item>
+    </string-array>
+    <string-array name="password_generator_buttons">
+        <item>अंक</item>
+        <item>चिन्ह</item>
+        <item>ऊपरी केस अक्षर</item>
+    </string-array>
+    <string-array name="general_ui_column_labels">
+        <item>उपस्थिति</item>
+        <item>गोपनीयता</item>
+        <item>सहायता</item>
+    </string-array>
+    <string-array name="language_list">
+        <item>अंग्रेज़ी</item>
+        <item>अरबी</item>
+        <item>स्पेनिश</item>
+        <item>फ़्रेंच</item>
+        <item>हिंदी</item>
+        <item>आर्मेनियाई</item>
+        <item>जापानी</item>
+        <item>कज़ाख</item>
+        <item>कोरियाई</item>
+        <item>मंगोलियाई</item>
+        <item>पोलिश</item>
+        <item>पुर्तगाली</item>
+        <item>रूसी</item>
+        <item>यूक्रेनी</item>
+        <item>उज़्बेक</item>
+        <item>वियतनामी</item>
+        <item>चीनी</item>
+    </string-array>
+
+    <string-array name="faq_question_list">
+    <item>मेरे लॉगिन और पासवर्ड आपके एप्लिकेशन में सुरक्षित रूप से कैसे संचित होते हैं?</item>
+        <item>क्या मैं आपके एप्लिकेशन में स्थानीय रूप से संचित पासवर्ड की सुरक्षा पर भरोसा कर सकता हूँ?</item>
+        <item>अगर मैं एप्लिकेशन का पासवर्ड भूल जाऊँ, तो क्या कुछ तरीका है उसे पुनः प्राप्त करने का?</item>
+        <item>क्या कोई भी मेरे अलावा मेरे लॉगिन और पासवर्ड तक पहुँच सकता है?</item>
+    </string-array>
+    <string-array name="faq_answer_list">
+        <item>आपका डेटा केवल आपकी डिवाइस पर संचित होता है, और हम इसे तीसरे पक्षों को भेजने के लिए संग्रहित नहीं करते हैं।</item>
+        <item>बिल्कुल, क्योंकि हम आधुनिक एंड-टू-एंड एन्क्रिप्शन का उपयोग करते हैं। इसके अलावा, प्रत्येक डिवाइस के लिए एक अद्वितीय कुंजी बनाई जाती है, जो सामान्य हैकिंग प्रयासों को रोकती है।</item>
+        <item>यदि आप एप्लिकेशन का पासवर्ड भूल जाते हैं, तो आपको डेटा को पुनः प्राप्त करने के लिए गुप्त शब्द दर्ज करने की आवश्यकता होगी। आप सेटिंग्स में इसे चेक और बदल सकते हैं और सर्वोत्तम संयोजन ढूंढकर। हालांकि, अगर आप अपना पिन और गुप्त शब्द दोनों भूल जाते हैं, तो आप अपने खाते तक पुनः पहुंच नहीं पाएंगे।</item>
+        <item>नहीं, क्योंकि हम कभी भी आपके सहमति के बिना आपके डेटा का अनुरोध या संग्रहण नहीं करते हैं।</item>
+    </string-array>
+</resources>

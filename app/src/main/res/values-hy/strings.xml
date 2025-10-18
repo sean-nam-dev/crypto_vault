@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="create_pin_code">Ստեղծել PIN-կոդ</string>
+    <string name="re_enter_pin_code">Նորից մուտքագրել PIN-կոդը</string>
+    <string name="enter_pin_code">Մուտքագրեք PIN-կոդը</string>
+    <string name="answer">Պատասխան</string>
+    <string name="biometric_authentication">Բիոմետրիկ վավերացման</string>
+    <string name="confirm">Հաստատել</string>
+    <string name="question_answer_field_is_blank">Հարցը կամ պատասխանի դաշտը դատարկ է</string>
+    <string name="incorrect_pin_code_tries_remaining">Սխալ PIN-կոդ։ Մանրամասները մնացած են-</string>
+    <string name="cancel">Չեղարկել</string>
+    <string name="restore_account">Վերականգնել հաշվառման</string>
+    <string name="create_new_account">Ստեղծել նոր հաշիվ</string>
+    <string name="are_you_sure">Հաստատված ե՞ք</string>
+    <string name="all_data_will_be_cleared">Բոլոր տվյալները ջնջվելու են ու դուք այնուհետև չեք կարող դրանք վերականգնել</string>
+    <string name="ok">Լավ</string>
+    <string name="you_can_change_pin_code">Դուք կարող եք փոխել PIN-կոդը կարգավորումներում</string>
+    <string name="wrong_answer">Սխալ պատասխան</string>
+    <string name="username">Օգտանուն</string>
+    <string name="password">Գաղտնաբառ</string>
+    <string name="open_in_browser">Բացել զննավայրում</string>
+    <string name="this_action_will_permanently_delete">Այս գործողությունը մշտապես կջնջի ձեր գաղտնաբառը</string>
+    <string name="incorrect_link">Սխալ հղում</string>
+    <string name="sort_by">Դասավորել ըստ</string>
+    <string name="restore">Վերականգնել</string>
+    <string name="has_been_deleted_successfully">Հեռացվել է հաջողությամբ</string>
+    <string name="new_vault">Նոր ուղղագրում</string>
+    <string name="required">*պարտադիր</string>
+    <string name="search">Որոնել…</string>
+    <string name="fill_required_fields">Լրացրեք պարտադիր դաշտերը</string>
+    <string name="generate">Գեներացնել</string>
+    <string name="symbols">նշաններ</string>
+    <string name="new_card">Նոր քարտ</string>
+    <string name="navigation_panel">Նավարկման</string>
+    <string name="vaults">Կույտեր</string>
+    <string name="cards">Քարտեր</string>
+    <string name="secured_passwords">Անվտանգված գաղտնաբառներ</string>
+    <string name="reused_passwords">Նորացված գաղտնաբառներ</string>
+    <string name="attention_needed">Առաջարկը մեկնարկված է</string>
+    <string name="some_of_your_passwords_seem_vulnerable">Ձեր գաղտնաբառներից որոնք-որ կամայական են</string>
+    <string name="browse">Դիտել</string>
+    <string name="favorite">Ընտրված</string>
+    <string name="edit">Խմբագրել</string>
+    <string name="delete">Ջնջել</string>
+    <string name="characters">Նշաններ</string>
+    <string name="change">Փոխել</string>
+    <string name="successfully_copied">Հաջողությամբ պատճենվել է</string>
+    <string name="language">Լեզու</string>
+    <string name="pin_and_secret_word">PIN և Գաղտնաբառ</string>
+    <string name="contact_us">Կապ մեզ հետ</string>
+    <string name="faq">ՀՏԿ</string>
+    <string name="you_can_reach_out_to_us_via">Դուք կարող եք կապվել մեզ հետ այս էլ․ փոստի միջոցով կողմից խնդրելու դեպքում կամ առաջարկներում:</string>
+    <string name="official_gmail">Ծառայության gmail</string>
+    <string name="pin_code">PIN-կոդ</string>
+    <string name="secret_word">Գաղտնաբառ</string>
+    <string name="pin_code_must_contain_only_4_digits">PIN-կոդը պետք է պարունակի միայն 4 նիշ</string>
+    <string name="new_pin_code_was_successfully_saved">Նոր PIN-կոդը հաջողությամբ պահպանվեց</string>
+    <string name="secret_word_must_contain_at_least">Գաղտնաբառը պետք է պարունակի առնչվածներից առավելագույնը 1 նիշ</string>
+    <string name="new_secret_word_was_successfully_saved">Նոր Գաղտնաբառը հաջողությամբ պահպանվեց</string>
+
+    <string name="home">Գլխավոր</string>
+    <string name="statistics">Վիճակագրություն</string>
+    <string name="password_generator">Գաղտնաբառի գեներատոր</string>
+    <string name="settings">Կարգավորումներ</string>
+
+    <string-array name="security_question_list">
+        <item>Ի՞նչ քաղաքում ես ծնվել:</item>
+        <item>Ի՞նչ առաջին ավտոմեքենան ունեցար:</item>
+        <item>Ո՞վ է սիրելի պատմական անձը:</item>
+        <item>Ի՞նչ է ձեր սիրված գիրքը:</item>
+        <item>Ի՞նչ է ձեր սիրված ֆիլմը:</item>
+        <item>Ի՞նչ է մայրիս անունը ամենաառավել հազվադեպին:</item>
+        <item>Ի՞նչ է ձեր առաջին կենդանինը անունը:</item>
+        <item>Ի՞նչ է ձեր առաջին ցելլոֆոնի մոդելը:</item>
+        <item>Ի՞նչ է ձեր սիրված արձագանքի տեղը:</item>
+        <item>Ի՞նչ է ձեր ամենից լավ ընտանիքական ընկերը՝:</item>
+    </string-array>
+    <string-array name="option_menu_pin_list">
+        <item>Հավանել</item>
+        <item>Խմբագրել</item>
+        <item>Ջնջել</item>
+    </string-array>
+    <string-array name="sorting_type_list">
+        <item>Ստեղծման ամսաթիվը</item>
+        <item>Ծառայանի անվանումը</item>
+        <item>Օգտանունը</item>
+    </string-array>
+    <string-array name="vault_creation_label_list">
+        <item>Ծառայություն</item>
+        <item>Օգտանուն</item>
+        <item>Հղում</item>
+        <item>Գաղտնաբառ</item>
+    </string-array>
+    <string-array name="vault_creation_username_list">
+        <item>Gmail, Facebook, Instagram…</item>
+        <item>Օգտանուն, փոստ, id…</item>
+        <item>https://www.example.com</item>
+        <item>Հերթական թվերի կամ qwerty-ից խուսափեք</item>
+    </string-array>
+    <string-array name="switch_content_list">
+        <item>Թվեր</item>
+        <item>Հատվածներ</item>
+        <item>Մեծատառ տառեր</item>
+    </string-array>
+    <string-array name="card_creation_label_list">
+        <item>Visa, Mastercard և այլն:</item>
+        <item>Քարտի համարը</item>
+        <item>CVV</item>
+        <item>Վավեր մինչև</item>
+        <item>Անունը</item>
+    </string-array>
+    <string-array name="card_creation_placeholder_list">
+        <item>Բանկի անվանումը</item>
+        <item>0000 0000 0000 0000</item>
+        <item>123</item>
+        <item>12/24</item>
+        <item>Ջոն Դոո</item>
+    </string-array>
+    <string-array name="problem_list">
+        <item>Մեծատառերը</item>
+        <item>Թվերը</item>
+        <item>Փոքրատառերը</item>
+        <item>Մեծատառերը</item>
+        <item>Նշանները</item>
+    </string-array>
+    <string-array name="pager_navigation_block_titles">
+        <item>Կույտեր</item>
+        <item>Քարտեր</item>
+    </string-array>
+    <string-array name="pager_navigation_block_subtitles">
+        <item>Անվտանգության ապահոված վայրը Ձեր բոլոր կույտերի համար</item>
+        <item>Անվտանգության ապահոված վայրը Ձեր բոլոր Քարտերի համար</item>
+    </string-array>
+    <string-array name="button_row_with_main_button_texts">
+        <item>ԲՈԼՈՐՈՒԹՅՈՒՆ</item>
+        <item>ԸՆԹՐՎԱԾ</item>
+    </string-array>
+    <string-array name="password_generator_buttons">
+        <item>Թվեր</item>
+        <item>Նշաններ</item>
+        <item>Մեծատառեր</item>
+    </string-array>
+    <string-array name="general_ui_column_labels">
+        <item>Արագածագինություն</item>
+        <item>Անվտանգություն</item>
+        <item>Օգնություն</item>
+    </string-array>
+    <string-array name="language_list">
+        <item>Անգլերեն</item>
+        <item>Արաբերեն</item>
+        <item>Իսպաներեն</item>
+        <item>Ֆրանսերեն</item>
+        <item>Հինդի</item>
+        <item>Արմեներեն</item>
+        <item>Ճապոներեն</item>
+        <item>Ղազախերեն</item>
+        <item>Կորեերեն</item>
+        <item>Մոնղոլերեն</item>
+        <item>Լեհերեն</item>
+        <item>Պորտուգալերեն</item>
+        <item>Ռուսերեն</item>
+        <item>Ուկրաիներեն</item>
+        <item>Ուզբեկերեն</item>
+        <item>Վիետնամերեն</item>
+        <item>Չինարեն</item>
+    </string-array>
+    <string-array name="faq_question_list">
+        <item>Ինչպես է ձեր մուտքանունները և գաղտնաբառները ապահովված պահվում ձեր ծրագրում:</item>
+        <item>Կարող եմ ես հավաստագրել ձեր ծրագրի տեղեկատվության անվտանգությանը:</item>
+        <item>Ինչ կլինի, եթե մուտքագրելիքը մոռացվի ծրագրի համար։ Կամայական ճանաչումների հետ դիմելու համար արդյունքի ձեռքը թարմացված է։</item>
+        <item>Կարողանամ մուտքագրել ինչպես միայն ես սարքով ձեր տվյալները:</item>
+    </string-array>
+    <string-array name="faq_answer_list">
+        <item>Ձեր տվյալները պահվում են միայն ձեր սարքում, եւ մենք չենք դրանց համարանրագիրը համարում եւ այցելել երրորդ կողմնակին:</item>
+        <item>Վստահ կամքի, քանի որ մենք օգտագործում ենք մոդերնա վերջացնելու գերեզմանը: Կայքերի անվանապեսի գաղտնաբառի հետ, արտագաղթ արժեքի ստացումը:</item>
+        <item>Եթե դուք մոռացել եք ծրագրի գաղտնաբառը, ձեզ անհրաժեշտ կլինի մուտքագրել Գաղտնաբառի բառարանական այնպես, որ կարողանանք գտնել լավագույն համակարգերը: Բայց, եթե դուք մոռացել եք հետևյալը, ապա ձեզ չենք կարող հետվել ձեր հաշիվը:</item>
+        <item>Ոչ, քանի որ մենք անձնական մատակարարեցինք ձեր տվյալներին ձեր հայեցման առաջատար երեխայի կողմից:</item>
+    </string-array>
+</resources>

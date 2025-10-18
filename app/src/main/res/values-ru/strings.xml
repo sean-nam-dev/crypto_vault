@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="create_pin_code">Создайте ПИН-код</string>
+    <string name="re_enter_pin_code">Повторно введите ПИН-код</string>
+    <string name="enter_pin_code">Введите ПИН-код</string>
+    <string name="answer">Ответ</string>
+    <string name="biometric_authentication">Биометрическая аутентификация</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="question_answer_field_is_blank">Поле вопроса или ответа пусто</string>
+    <string name="incorrect_pin_code_tries_remaining">Неправильный ПИН-код. Осталось попыток-</string>
+    <string name="cancel">Отмена</string>
+    <string name="restore_account">Восстановить аккаунт</string>
+    <string name="create_new_account">Создать новый аккаунт</string>
+    <string name="are_you_sure">Вы уверены?</string>
+    <string name="all_data_will_be_cleared">Все данные будут удалены, и вы не сможете их восстановить</string>
+    <string name="ok">OK</string>
+    <string name="you_can_change_pin_code">Вы можете изменить ПИН-код в настройках</string>
+    <string name="wrong_answer">Неправильный ответ</string>
+    <string name="username">Имя пользователя</string>
+    <string name="password">Пароль</string>
+    <string name="open_in_browser">Открыть в браузере</string>
+    <string name="this_action_will_permanently_delete">Это действие навсегда удалит ваш пароль</string>
+    <string name="incorrect_link">Неверная ссылка</string>
+    <string name="sort_by">Сортировать по</string>
+    <string name="restore">Восстановить</string>
+    <string name="has_been_deleted_successfully">Успешно удалено</string>
+    <string name="new_vault">Новый пароль</string>
+    <string name="required">*обязательно</string>
+    <string name="search">Поиск…</string>
+    <string name="fill_required_fields">Заполните обязательные поля</string>
+    <string name="generate">Создать</string>
+    <string name="symbols">символов</string>
+    <string name="new_card">Новая карта</string>
+    <string name="navigation_panel">Навигация</string>
+    <string name="vaults">ПАРОЛИ</string>
+    <string name="cards">КАРТЫ</string>
+    <string name="secured_passwords">БЕЗОПАСНЫЕ ПАРОЛИ</string>
+    <string name="reused_passwords">ПОВТОРНО ИСПОЛЬЗУЕМЫЕ ПАРОЛИ</string>
+    <string name="attention_needed">ТРЕБУЕТ ВАШЕГО ВНИМАНИЯ</string>
+    <string name="some_of_your_passwords_seem_vulnerable">Некоторые из ваших паролей кажутся уязвимыми</string>
+    <string name="browse">Просмотр</string>
+    <string name="favorite">Избранное</string>
+    <string name="edit">Редактировать</string>
+    <string name="delete">Удалить</string>
+    <string name="characters">СИМВОЛОВ</string>
+    <string name="change">ПЕРЕСОЗДАТЬ</string>
+    <string name="successfully_copied">Успешно скопировано</string>
+    <string name="language">Язык</string>
+    <string name="pin_and_secret_word">ПИН и Секретное слово</string>
+    <string name="contact_us">Свяжитесь с нами</string>
+    <string name="faq">Часто задаваемые вопросы</string>
+    <string name="you_can_reach_out_to_us_via">Вы можете связаться с нами по этому адресу электронной почты в случае возникновения каких-либо ошибок или предложений</string>
+    <string name="official_gmail">Официальная почта</string>
+    <string name="pin_code">ПИН-код</string>
+    <string name="secret_word">Секретное слово</string>
+    <string name="pin_code_must_contain_only_4_digits">ПИН-код должен содержать только 4 цифры</string>
+    <string name="new_pin_code_was_successfully_saved">Новый ПИН-код успешно сохранен</string>
+    <string name="secret_word_must_contain_at_least">Секретное слово должно содержать как минимум 1 символ</string>
+    <string name="new_secret_word_was_successfully_saved">Новое секретное слово успешно сохранено</string>
+
+    <string name="home">Главная</string>
+    <string name="statistics">Статистика</string>
+    <string name="password_generator">Генератор паролей</string>
+    <string name="settings">Настройки</string>
+
+    <string-array name="security_question_list">
+        <item>В каком городе вы родились?</item>
+        <item>Какая была ваша первая машина?</item>
+        <item>Кто ваш любимый исторический персонаж?</item>
+        <item>Какая ваша любимая книга?</item>
+        <item>Какой ваш любимый фильм?</item>
+        <item>Девичья фамилия вашей матери?</item>
+        <item>Как звали вашего первого питомца?</item>
+        <item>Какая модель вашего первого мобильного телефона?</item>
+        <item>Какое ваше любимое место для отпуска?</item>
+        <item>Как звали вашего лучшего друга в детстве?</item>
+    </string-array>
+    <string-array name="option_menu_pin_list">
+        <item>Избранное</item>
+        <item>Редактировать</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="sorting_type_list">
+        <item>Дате создания</item>
+        <item>Названию сервиса</item>
+        <item>Имени пользователя</item>
+    </string-array>
+    <string-array name="vault_creation_label_list">
+        <item>Сервис</item>
+        <item>Имя пользователя</item>
+        <item>Ссылка</item>
+        <item>Пароль</item>
+    </string-array>
+    <string-array name="vault_creation_username_list">
+        <item>Gmail, Facebook, Instagram…</item>
+        <item>Имя пользователя, почта, идентификатор…</item>
+        <item>https://www.example.com</item>
+        <item>Избегайте использования 123 или qwerty</item>
+    </string-array>
+    <string-array name="switch_content_list">
+        <item>Цифры</item>
+        <item>Спецсимволы</item>
+        <item>Прописные буквы</item>
+    </string-array>
+    <string-array name="card_creation_label_list">
+        <item>Название банка</item>
+        <item>Номер карты</item>
+        <item>CVV-код</item>
+        <item>Срок действия</item>
+        <item>Полное имя</item>
+    </string-array>
+    <string-array name="card_creation_placeholder_list">
+        <item>Visa, Mastercard и тд</item>
+        <item>0000 0000 0000 0000</item>
+        <item>123</item>
+        <item>12/24</item>
+        <item>Иванов Иван</item>
+    </string-array>
+    <string-array name="problem_list">
+        <item>Длина</item>
+        <item>Цифры</item>
+        <item>Строчные буквы</item>
+        <item>Прописные буквы</item>
+        <item>Спецсимволы</item>
+    </string-array>
+    <string-array name="pager_navigation_block_titles">
+        <item>Пароли</item>
+        <item>КАРТЫ</item>
+    </string-array>
+    <string-array name="pager_navigation_block_subtitles">
+        <item>Безопасное место для всех ваших паролей</item>
+        <item>Безопасное место для всех ваших карт</item>
+    </string-array>
+    <string-array name="button_row_with_main_button_texts">
+        <item>ВСЕ</item>
+        <item>ИЗБРАННЫЕ</item>
+    </string-array>
+    <string-array name="password_generator_buttons">
+        <item>Цифры</item>
+        <item>Спецсимволы</item>
+        <item>Прописные буквы</item>
+    </string-array>
+    <string-array name="general_ui_column_labels">
+        <item>Интерфейс</item>
+        <item>Конфиденциальность</item>
+        <item>Помощь</item>
+    </string-array>
+    <string-array name="language_list">
+        <item>Английский</item>
+        <item>Арабский</item>
+        <item>Испанский</item>
+        <item>Французский</item>
+        <item>Хинди</item>
+        <item>Армянский</item>
+        <item>Японский</item>
+        <item>Казахский</item>
+        <item>Корейский</item>
+        <item>Монгольский</item>
+        <item>Польский</item>
+        <item>Португальский</item>
+        <item>Русский</item>
+        <item>Украинский</item>
+        <item>Узбекский</item>
+        <item>Вьетнамский</item>
+        <item>Китайский</item>
+    </string-array>
+    <string-array name="faq_question_list">
+        <item>Как безопасно хранятся мои логины и пароли в вашем приложении?</item>
+        <item>Могу ли я доверять безопасности локального хранения паролей в вашем приложении?</item>
+        <item>Что произойдет, если я забуду пароль от приложения? Есть ли возможность его восстановления?</item>
+        <item>Могут ли кто-то, помимо меня, получить доступ к моим логинам и паролям?</item>
+    </string-array>
+    <string-array name="faq_answer_list">
+        <item>Ваши данные хранятся исключительно на вашем устройстве и мы не собираем их для передачи третьим лицам.</item>
+        <item>Безусловно, ведь мы используем современный метод сквозного шифрования. Более того, для каждого устройства создается свой уникальный ключ, что в свою очередь предотваращет массовый взлом.</item>
+        <item>Если вы забудете пароль от приложения, то вам придется ввести Секретное Слово для восстановления данных. Вы всегда можете проверить его и изменить в настройках, подобрав наилучшую комбинацию. Но помните, если вы забыли свой ПИН-код и Секретное Слово, то вы не сможете вернуть доступ к своему аккаунту.</item>
+        <item>Нет, ведь мы никогда не запрашиваем и не собираем ваши данные без вашего согласия.</item>
+    </string-array>
+</resources>

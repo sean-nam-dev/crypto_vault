@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="create_pin_code">PIN-код үүсгэх</string>
+    <string name="re_enter_pin_code">PIN-кодыг дахин оруулах</string>
+    <string name="enter_pin_code">PIN-код оруулах</string>
+    <string name="answer">Хариулт</string>
+    <string name="biometric_authentication">Биометрик нэвтрэх</string>
+    <string name="confirm">Баталгаажуулах</string>
+    <string name="question_answer_field_is_blank">Асуулт эсвэл хариулт талбар хоосон байна</string>
+    <string name="incorrect_pin_code_tries_remaining">Буруу PIN-код. Оролдлого үлдсэн-</string>
+    <string name="cancel">Цуцлах</string>
+    <string name="restore_account">Данс сэргээх</string>
+    <string name="create_new_account">Шинэ данс үүсгэх</string>
+    <string name="are_you_sure">Итгэлтэй байна уу?</string>
+    <string name="all_data_will_be_cleared">Бүх мэдээлэл устгагдаж, та үүнийг сэргээх боломжгүй болно</string>
+    <string name="ok">OK</string>
+    <string name="you_can_change_pin_code">Та тохиргоонд PIN-кодыг өөрчилж болно</string>
+    <string name="wrong_answer">Буруу хариулт</string>
+    <string name="username">Хэрэглэгчийн нэр</string>
+    <string name="password">Нууц үг</string>
+    <string name="open_in_browser">Хөтөч дээр нээх</string>
+    <string name="this_action_will_permanently_delete">Энэ үйлдэл нь таны нууц үгийг цааш үргэлж устгана</string>
+    <string name="incorrect_link">Буруу холбоос</string>
+    <string name="sort_by">Эрэмбэлэх</string>
+    <string name="restore">Сэргээх</string>
+    <string name="has_been_deleted_successfully">Амжилттай устгагдлаа</string>
+    <string name="new_vault">Шинэ байршил</string>
+    <string name="required">*заавал</string>
+    <string name="search">Хайх…</string>
+    <string name="fill_required_fields">Заавал бөглөх талбаруудыг бөглөнө үү</string>
+    <string name="generate">Үүсгэх</string>
+    <string name="symbols">тэмдэгтүүд</string>
+    <string name="new_card">Шинэ карт</string>
+    <string name="navigation_panel">Навигацийн самбар</string>
+    <string name="vaults">БАЙРШИЛ</string>
+    <string name="cards">КАРТУУД</string>
+    <string name="secured_passwords">АХГҮЙ НУУЦ ҮГҮҮД</string>
+    <string name="reused_passwords">ДААХЬ НУУЦ ҮГҮҮД</string>
+    <string name="attention_needed">САНАА БОЛГОХ ШААРДЛАГА</string>
+    <string name="some_of_your_passwords_seem_vulnerable">Таны нууц үгүүдийн зарчим үлдэх нь тодорхой</string>
+    <string name="browse">Хайрцаг</string>
+    <string name="favorite">Дуртай</string>
+    <string name="edit">Засварлах</string>
+    <string name="delete">Устгах</string>
+    <string name="characters">ТОЛГОЙ</string>
+    <string name="change">Өөрчлөх</string>
+    <string name="successfully_copied">Амжилттай хуулагдлаа</string>
+    <string name="language">Хэл</string>
+    <string name="pin_and_secret_word">PIN болон Нууц үг</string>
+    <string name="contact_us">Бидэнтэй холбогдох</string>
+    <string name="faq">ТҮЛШ</string>
+    <string name="you_can_reach_out_to_us_via">Алдаа эсвэл зөвлөмж хүлээх тохиолдолд та энэ имэйл хаягаар бидтэй холбогдох боломжтой:</string>
+    <string name="official_gmail">Үндсэн Gmail</string>
+    <string name="pin_code">PIN-код</string>
+    <string name="secret_word">Нууц үг</string>
+    <string name="pin_code_must_contain_only_4_digits">PIN-код зөвхөн 4 тооноос бүрдэх ёстой</string>
+    <string name="new_pin_code_was_successfully_saved">Шинэ PIN-код амжилттай хадгалагдлаа</string>
+    <string name="secret_word_must_contain_at_least">Нууц үг дор хаяж 1 тэмдэгтээр байх ёстой</string>
+    <string name="new_secret_word_was_successfully_saved">Шинэ нууц үг амжилттай хадгалагдлаа</string>
+
+    <string name="home">Нүүр хуудас</string>
+    <string name="statistics">Статистик</string>
+    <string name="password_generator">Нууц үг үүсгэгч</string>
+    <string name="settings">Тохиргоо</string>
+
+    <string-array name="security_question_list">
+        <item>Та хаанаас төрсөн бэ?</item>
+        <item>Таны
+
+ эхний машин юу вэ?</item>
+        <item>Таны дурлагчийн хамгийн дуртай нь хэн?</item>
+        <item>Таны дурлагчийн хамгийн дуртай ном юу вэ?</item>
+        <item>Таны дурлагчийн хамгийн дуртай кино юу вэ?</item>
+        <item>Таны эхний эхийн нэр нь юу вэ?</item>
+        <item>Таны эхний өнгөний нэр нь юу вэ?</item>
+        <item>Таны эхний гар утасны модель нь юу вэ?</item>
+        <item>Таны дурлагчийн хамгийн дуртай аялал нь хаана байна вэ?</item>
+        <item>Таны дурлагчийн хамгийн дуртай охин нэр нь юу вэ?</item>
+    </string-array>
+    <string-array name="option_menu_pin_list">
+        <item>Дуртай</item>
+        <item>Засах</item>
+        <item>Устгах</item>
+    </string-array>
+    <string-array name="sorting_type_list">
+        <item>Үүсгэх огноо</item>
+        <item>Үйлчилгээний нэр</item>
+        <item>Хэрэглэгчийн нэр</item>
+    </string-array>
+    <string-array name="vault_creation_label_list">
+        <item>Үйлчилгээ</item>
+        <item>Хэрэглэгчийн нэр</item>
+        <item>Холбоос</item>
+        <item>Нууц үг</item>
+    </string-array>
+    <string-array name="vault_creation_username_list">
+        <item>Gmail, Facebook, Instagram…</item>
+        <item>Хэрэглэгчийн нэр, мэйл, id…</item>
+        <item>https://www.example.com</item>
+        <item>123 эсвэл qwerty ашиглахыг хичээл</item>
+    </string-array>
+    <string-array name="switch_content_list">
+        <item>Тоо</item>
+        <item>Онцгой тэмдэгтүүд</item>
+        <item>Том үсгүүд</item>
+    </string-array>
+    <string-array name="card_creation_label_list">
+        <item>Visa, Mastercard гэх мэт</item>
+        <item>Картын дугаар</item>
+        <item>CVV</item>
+        <item>Дуусах хугацаа</item>
+        <item>Бүтэн нэр</item>
+    </string-array>
+    <string-array name="card_creation_placeholder_list">
+        <item>Банкны нэр</item>
+        <item>0000 0000 0000 0000</item>
+        <item>123</item>
+        <item>12/24</item>
+        <item>John Doe</item>
+    </string-array>
+    <string-array name="problem_list">
+        <item>УЛААН</item>
+        <item>ЦИФРҮҮД</item>
+        <item>Жижиг үсгүүд</item>
+        <item>Том үсгүүд</item>
+        <item>Тэмдэгтүүд</item>
+    </string-array>
+    <string-array name="pager_navigation_block_titles">
+        <item>БАЙРШИЛ</item>
+        <item>КАРТУУД</item>
+    </string-array>
+    <string-array name="pager_navigation_block_subtitles">
+        <item>Таны бүх байршилд аюулгүй байршил</item>
+        <item>Таны бүх картанд аюулгүй байршил</item>
+    </string-array>
+    <string-array name="button_row_with_main_button_texts">
+        <item>БҮГД</item>
+        <item>ДУРТАЙ</item>
+    </string-array>
+    <string-array name="password_generator_buttons">
+        <item>ЦИФР</item>
+        <item>ТЭМДЭГТҮҮД</item>
+        <item>ТОМ ҮСГҮҮД</item>
+    </string-array>
+    <string-array name="general_ui_column_labels">
+        <item>Хараахан</item>
+        <item>Нууцлал</item>
+        <item>Тусламж</item>
+    </string-array>
+    <string-array name="language_list">
+        <item>Англи</item>
+        <item>Араб</item>
+        <item>Испани</item>
+        <item>Франц</item>
+        <item>Хинди</item>
+        <item>Армени</item>
+        <item>Япон</item>
+        <item>Казах</item>
+        <item>Солонгос</item>
+        <item>Монгол</item>
+        <item>Польш</item>
+        <item>Португал</item>
+        <item>Орос</item>
+        <item>Украйн</item>
+        <item>Өзбек</item>
+        <item>Вьетнам</item>
+        <item>Хятад</item>
+    </string-array>
+    <string-array name="faq_question_list">
+        <item>Хэрхэн миний нэвтрэлтийн мэдээлэл болон нууц үг хамгийн сайн хадгалагдаж байгаагаа?</item>
+        <item>Таны аппликейшнд байршсан нууц үгийн аюулгүйн давуу тал хамгаалалтанд нь намайг итгэж болно уу?</item>
+        <item>Аппликейшний нууц үгийг мартсан үед юу болох вэ? Тэдгээрийг сэргээх явцад яаж байна вэ?</item>
+        <item>Миний нэвтрэлтийн мэдээлэл болон нууц үгийг бусад хэн ч миний гэрээг хандаж болох уу?</item>
+    </string-array>
+    <string-array name="faq_answer_list">
+    <item>Таны мэдээлэл зөвхөн таны төхөөрөмж дээр хадгалагдана, бид тиймээс үүнийг шалгахыг хүсэж байхгүй.</item>
+        <item>Тиймээс, бид олон улсын даргын энд-эндийн нууцлалыг ашиглаж байна. Үүнд олон төхөөрөмжөөс бүрдэж буй нууцлалын түлхүүр үүсгэгч үүсэн.</item>
+        <item>Хэрэв та програмын нууц үгээ мартсан бол, та өөрийн мэдээллийг сэргээхийн тулд Нууц үгийг оруулах шаардлагатай болно. Та үргэлжлүүлэхийн тулд үүнийг тохируулж, сайн холбоотой хослол олж таны мэдээллийг сэргээх боломжтой болно. Харин хэрэв та нэгэн хэсэг нь таны PIN болон Нууц үгийг мартсан бол, та өөрийн дансанд нэвтрэх боломжгүй болно.</item>
+        <item>Үгүй, бид таны зөвшөөрөлгүйгээр таны мэдээллийг хүсэж чадахгүй.</item>
+    </string-array>
+</resources>

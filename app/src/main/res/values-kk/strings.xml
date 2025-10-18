@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="create_pin_code">PIN-kod jasau</string>
+    <string name="re_enter_pin_code">PIN-kod jenе qaytalaу</string>
+    <string name="enter_pin_code">PIN-kod еntеru</string>
+    <string name="answer">Жауап</string>
+    <string name="biometric_authentication">Biomеtrik autentifikatsiуa</string>
+    <string name="confirm">Rastyru</string>
+    <string name="question_answer_field_is_blank">Sorаu naуazilik sahası</string>
+    <string name="incorrect_pin_code_tries_remaining">Nәdogіr PIN-kod. Urуs кaludі- </string>
+    <string name="cancel">Beketу</string>
+    <string name="restore_account">Hisabnы qalpaqtarу</string>
+    <string name="create_new_account">Janу hеsap асу</string>
+    <string name="are_you_sure">Kөnеkіsenіz bе?</string>
+    <string name="all_data_will_be_cleared">Bарлық деректер жойылады және оларды калпақтары алмайсыз</string>
+    <string name="ok">Жақсы</string>
+    <string name="you_can_change_pin_code">Sіz paramеtlеudе PIN-kodіңізді өзгерте аласіз</string>
+    <string name="wrong_answer">Нәтеже дұрыс емес</string>
+    <string name="username">Foydalanуshі аты</string>
+    <string name="password">Parol</string>
+    <string name="open_in_browser">Brauzerде ашу</string>
+    <string name="this_action_will_permanently_delete">Bū әрекет сіздің парольіңізді толықтыра алады</string>
+    <string name="incorrect_link">Қате сілтеме</string>
+    <string name="sort_by">Кlassikalaу</string>
+    <string name="restore">Көруге алу</string>
+    <string name="has_been_deleted_successfully">Сәтті өшірілді</string>
+    <string name="new_vault">Жаңа қазан</string>
+    <string name="required">*міндетті</string>
+    <string name="search">Іздеу…</string>
+    <string name="fill_required_fields">Міндетті өріс енгізіңіз</string>
+    <string name="generate">Жасау</string>
+    <string name="symbols">белгілер</string>
+    <string name="new_card">Жаңа Карта</string>
+    <string name="navigation_panel">Навигация</string>
+    <string name="vaults">ҚАЗАНДАР</string>
+    <string name="cards">КАРТАЛАР</string>
+    <string name="secured_passwords">ҚОРҒАЛҰҚ ПАРОЛДАР</string>
+    <string name="reused_passwords">ҚАЙТА ҚОЛДАНЫЛАДЫ ПАРОЛДАР</string>
+    <string name="attention_needed">Кереметтік талаптар</string>
+    <string name="some_of_your_passwords_seem_vulnerable">Сіздің пароллеріңіздің кейбірі қауіпті көрінеді</string>
+    <string name="browse">Тарату</string>
+    <string name="favorite">Сұранымдар</string>
+    <string name="edit">Өзгерту</string>
+    <string name="delete">жойып</string>
+    <string name="characters">BELGILAR</string>
+    <string name="change">Өзгерту</string>
+    <string name="successfully_copied">Сәтті көшірілді</string>
+    <string name="language">Тіл</string>
+    <string name="pin_and_secret_word">PIN және сыртқы сөз</string>
+    <string name="contact_us">Бізбен хабарласыңыз</string>
+    <string name="faq">КСП</string>
+    <string name="you_can_reach_out_to_us_via">Қате немесе такырыптар қозғалары кезінде бізге бұл электронды поштаны қарау арқылы байланысқа аласыз:</string>
+    <string name="official_gmail">Ресми gmail</string>
+    <string name="pin_code">PIN-kod</string>
+    <string name="secret_word">Сыртқы сөз</string>
+    <string name="pin_code_must_contain_only_4_digits">PIN-kod тек 4 цифр болуы керек</string>
+    <string name="new_pin_code_was_successfully_saved">Жаңа PIN-kod сәтті сақталды</string>
+    <string name="secret_word_must_contain_at_least">Сыртқы Сөз кем дегенде 1 белгі ішіне болуы керек</string>
+    <string name="new_secret_word_was_successfully_saved">Жаңа Сыртқы Сөз сәтті сақталды</string>
+
+    <string name="home">Басты бет</string>
+    <string name="statistics">Статистика</string>
+    <string name="password_generator">Пароль жасау</string>
+    <string name="settings">Параметрлер</string>
+
+    <string-array name="security_question_list">
+        <item>Сіз күркініште қай қалада туғансыз?</item>
+        <item>Сіздің алғашқы ақпараттық машинаңыз қандай болды?</item>
+        <item>Сіздің жақсы көруіңіздің тарихи фигурасы кім
+
+?</item>
+        <item>Сіздің жақсы көруіңіздің кітабы қандай?</item>
+        <item>Сіздің жақсы көруіңіздің кіносы қандай?</item>
+        <item>Сіздің анасыныздың кіз аты-жөні неді?</item>
+        <item>Сіздің алғашқы құдай баласының аты неді?</item>
+        <item>Сіздің алғашқы телефон модели неді?</item>
+        <item>Сіздің жақсы тату орындарыңыз қайда?</item>
+        <item>Сіздің балалық достыңыздың аты неді?</item>
+    </string-array>
+    <string-array name="option_menu_pin_list">
+        <item>Сұранымдар</item>
+        <item>Өзгерту</item>
+        <item>Жойып</item>
+    </string-array>
+    <string-array name="sorting_type_list">
+        <item>Жасау күні</item>
+        <item>Қызмет аты</item>
+        <item>Фойдаланушы аты</item>
+    </string-array>
+    <string-array name="vault_creation_label_list">
+        <item>Қызмет</item>
+        <item>Фойдаланушы аты</item>
+        <item>Сілтеме</item>
+        <item>Пароль</item>
+    </string-array>
+    <string-array name="vault_creation_username_list">
+        <item>Gmail, Facebook, Instagram…</item>
+        <item>Фойдаланушы аты, пошта, идентификатор…</item>
+        <item>https://www.example.com</item>
+        <item>123 немесе qwertyдан пайдаланыңыз</item>
+    </string-array>
+    <string-array name="switch_content_list">
+        <item>Сандар</item>
+        <item>Арнайы белгілер</item>
+        <item>Үлкен әріптер</item>
+    </string-array>
+    <string-array name="card_creation_label_list">
+        <item>Visa, Mastercard және т.б.</item>
+        <item>Карта нөмірі</item>
+        <item>CVV</item>
+        <item>Қолдануға мүмкін мерзім</item>
+        <item>Толық атауы</item>
+    </string-array>
+    <string-array name="card_creation_placeholder_list">
+        <item>Банк атауы</item>
+        <item>0000 0000 0000 0000</item>
+        <item>123</item>
+        <item>12/24</item>
+        <item>John Doe</item>
+    </string-array>
+    <string-array name="problem_list">
+        <item>ҰЗЫНДЫҚ</item>
+        <item>САНДАР</item>
+        <item>КІШІЛІКТІ ӘРІПТЕР</item>
+        <item>ҮЛКЕН ӘРІПТЕР</item>
+        <item>БЕЛГІЛЕР</item>
+    </string-array>
+    <string-array name="pager_navigation_block_titles">
+        <item>ҚАЗАНДАР</item>
+        <item>КАРТАЛАР</item>
+    </string-array>
+    <string-array name="pager_navigation_block_subtitles">
+        <item>Барлық қазандарыңыз үшін қауіпсіз орын</item>
+        <item>Барлық карталарыңыз үшін қауіпсіз орын</item>
+    </string-array>
+    <string-array name="button_row_with_main_button_texts">
+        <item>БАРЛЫҚ</item>
+        <item>СҰРАНЫМДАР</item>
+    </string-array>
+    <string-array name="password_generator_buttons">
+        <item>САНДАР</item>
+        <item>БЕЛГІЛЕР</item>
+        <item>ҮЛКЕН ӘРІПТЕР</item>
+    </string-array>
+    <string-array name="general_ui_column_labels">
+        <item>Көрініс</item>
+        <item>Мұрас</item>
+        <item>Көмек</item>
+    </string-array>
+    <string-array name="language_list">
+        <item>Ағылшын</item>
+        <item>Араб</item>
+        <item>Испан</item>
+        <item>Француз</item>
+        <item>Хинди</item>
+        <item>Արմեներեն</item>
+        <item>Жапон</item>
+        <item>Қазақ</item>
+        <item>Корей</item>
+        <item>Моңғол</item>
+        <item>Поляк</item>
+        <item>Португал</item>
+        <item>Орыс</item>
+        <item>Украин</item>
+        <item>Ўзбек</item>
+        <item>Вьетнам</item>
+        <item>Қытай</item>
+    </string-array>
+
+    <string-array name="faq_question_list">
+    <item>Менің тіркелгілерім және парольдарым сіздің қолдауыңызбен қандай қауіпсіз сақталады?</item>
+        <item>Сіздің бағытталған пароллеріңіздің мұрасын сіздің бағыттарыңыздың қауіпсіздігіне иярландырып береміз пе?</item>
+        <item>Егер мен бағыттама парольімді еске салсам не болады? Оны қалпына келтіруге мүмкіндік бар ма?</item>
+        <item>Менің тіркелгілерім және парольдарымды толық қатесіз сізбен басқа жеке мәндерге қатынасуға бола ма?</item>
+    </string-array>
+    <string-array name="faq_answer_list">
+        <item>Сіздің деректеріңіз тек сіздің құрылғыңызда сақталады, және біз оны үшін үшінді тармақтамаларға алмаймыз.</item>
+        <item>Алалы, біз заманауи соңғы-ағымдағы шифрлау қолданамыз. Сонымен қатар, әрбір құрылғы үшін уникалды кілт жасалады, массалық ұшул тырысудардан сақталу.</item>
+        <item>Егер сіз бағыттама парольіңізді ұмытып кетсеңіз, анда деректерді қалпына келтіру үшін сізге Сыртқы Сөзді енгізуіңіз керек. Сіз оны көшірмей-аласыз, сізге параметрлерде жақсы комбинацияны табу үшін өзгерту және тексеру мүмкіндігі бар. Бірақ, егер сіз ікемдеңіздің хаттамасын және сыртқы сөзді ұмытсаңыз, сіздің есептіге қайта кіру мүмкін емес.</item>
+        <item>Жоқ, біз сіздің ризасыздарсыз деректеріңізді сұраспақ немесе жинаспақ.</item>
+    </string-array>
+</resources>

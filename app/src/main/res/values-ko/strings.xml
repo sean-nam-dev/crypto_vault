@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="create_pin_code">PIN 코드 생성</string>
+    <string name="re_enter_pin_code">PIN 코드 재입력</string>
+    <string name="enter_pin_code">PIN 코드 입력</string>
+    <string name="answer">답변</string>
+    <string name="biometric_authentication">생체 인증</string>
+    <string name="confirm">확인</string>
+    <string name="question_answer_field_is_blank">질문 또는 답변 필드가 비어 있습니다</string>
+    <string name="incorrect_pin_code_tries_remaining">잘못된 PIN 코드. 남은 시도 횟수-</string>
+    <string name="cancel">취소</string>
+    <string name="restore_account">계정 복원</string>
+    <string name="create_new_account">새 계정 생성</string>
+    <string name="are_you_sure">확인하시겠습니까?</string>
+    <string name="all_data_will_be_cleared">모든 데이터가 지워지며 복원할 수 없습니다</string>
+    <string name="ok">확인</string>
+    <string name="you_can_change_pin_code">설정에서 PIN 코드를 변경할 수 있습니다</string>
+    <string name="wrong_answer">잘못된 답변</string>
+    <string name="username">사용자 이름</string>
+    <string name="password">비밀번호</string>
+    <string name="open_in_browser">브라우저에서 열기</string>
+    <string name="this_action_will_permanently_delete">이 작업은 비밀번호를 영구적으로 삭제합니다</string>
+    <string name="incorrect_link">잘못된 링크</string>
+    <string name="sort_by">정렬 기준</string>
+    <string name="restore">복원</string>
+    <string name="has_been_deleted_successfully">성공적으로 삭제되었습니다</string>
+    <string name="new_vault">새 보관함</string>
+    <string name="required">*필수</string>
+    <string name="search">검색…</string>
+    <string name="fill_required_fields">필수 필드를 입력하세요</string>
+    <string name="generate">생성</string>
+    <string name="symbols">기호</string>
+    <string name="new_card">새 카드</string>
+    <string name="navigation_panel">네비게이션</string>
+    <string name="vaults">보관함</string>
+    <string name="cards">카드</string>
+    <string name="secured_passwords">보안된 비밀번호</string>
+    <string name="reused_passwords">재사용된 비밀번호</string>
+    <string name="attention_needed">주의 필요</string>
+    <string name="some_of_your_passwords_seem_vulnerable">일부 비밀번호가 취약해 보입니다</string>
+    <string name="browse">찾아보기</string>
+    <string name="favorite">즐겨찾기</string>
+    <string name="edit">편집</string>
+    <string name="delete">삭제</string>
+    <string name="characters">문자</string>
+    <string name="change">변경</string>
+    <string name="successfully_copied">성공적으로 복사됨</string>
+    <string name="language">언어</string>
+    <string name="pin_and_secret_word">PIN 및 비밀 단어</string>
+    <string name="contact_us">문의하기</string>
+    <string name="faq">자주 묻는 질문</string>
+    <string name="you_can_reach_out_to_us_via">버그 또는 제안 사항이 있는 경우 이 이메일로 연락하실 수 있습니다:</string>
+    <string name="official_gmail">공식 Gmail</string>
+    <string name="pin_code">PIN 코드</string>
+    <string name="secret_word">비밀 단어</string>
+    <string name="pin_code_must_contain_only_4_digits">PIN 코드는 4 자리 숫자만 포함해야 합니다</string>
+    <string name="new_pin_code_was_successfully_saved">새로운 PIN 코드가 성공적으로 저장되었습니다</string>
+    <string name="secret_word_must_contain_at_least">비밀 단어에는 적어도 1 개의 기호가 포함되어야 합니다</string>
+    <string name="new_secret_word_was_successfully_saved">새 비밀 단어가 성공적으로 저장되었습니다</string>
+
+    <string name="home">홈</string>
+    <string name="statistics">통계</string>
+    <string name="password_generator">비밀번호 생성기</string>
+    <string name="settings">설정</string>
+
+    <string-array name="security_question_list">
+        <item>태어난 도시는 어디입니까?</item>
+        <item>처음 소유한 자동차는 무엇입니까?</item>
+        <item>가장 좋아하는 역사적 인물은 누구입니까?</item>
+        <item>가장 좋아하는 책은 무엇입니까?</item>
+        <item>가장 좋아하는 영화는 무엇입니까?</item>
+        <item>어머니의 출생 성은 무엇입니까?</item>
+        <item>첫 번째 애완 동물의 이름은 무엇입니까?</item>
+        <item>첫 번째 휴대 전화의 모델은 무엇입니까?</item>
+        <item>가장 좋아하는 휴가지는 어디입니까?</item>
+        <item>어릴 때 가장 친한 친구의 이름은 무엇입니까?</item>
+    </string-array>
+    <string-array name="option_menu_pin_list">
+        <item>즐겨찾기</item>
+        <item>편집</item>
+        <item>삭제</item>
+    </string-array>
+    <string-array name="sorting_type_list">
+        <item>생성 날짜순</item>
+        <item>서비스 이름순</item>
+        <item>사용자 이름순</item>
+    </string-array>
+    <string-array name="vault_creation_label_list">
+        <item>서비스</item>
+        <item>사용자 이름</item>
+        <item>링크</item>
+        <item>비밀번호</item>
+    </string-array>
+    <string-array name="vault_creation_username_list">
+        <item>Gmail, Facebook, Instagram…</item>
+        <item>사용자 이름
+
+, 메일, ID…</item>
+        <item>https://www.example.com</item>
+        <item>123이나 qwerty를 사용하지 마세요</item>
+    </string-array>
+    <string-array name="switch_content_list">
+        <item>숫자</item>
+        <item>특수 기호</item>
+        <item>대문자</item>
+    </string-array>
+    <string-array name="card_creation_label_list">
+        <item>비자, 마스터카드 등</item>
+        <item>카드 번호</item>
+        <item>CVV</item>
+        <item>유효 기간</item>
+        <item>전체 이름</item>
+    </string-array>
+    <string-array name="card_creation_placeholder_list">
+        <item>은행 이름</item>
+        <item>0000 0000 0000 0000</item>
+        <item>123</item>
+        <item>12/24</item>
+        <item>John Doe</item>
+    </string-array>
+    <string-array name="problem_list">
+        <item>길이</item>
+        <item>숫자</item>
+        <item>소문자</item>
+        <item>대문자</item>
+        <item>기호</item>
+    </string-array>
+    <string-array name="pager_navigation_block_titles">
+        <item>보관함</item>
+        <item>카드</item>
+    </string-array>
+    <string-array name="pager_navigation_block_subtitles">
+        <item>모든 보관함의 안전한 위치</item>
+        <item>모든 카드의 안전한 위치</item>
+    </string-array>
+    <string-array name="button_row_with_main_button_texts">
+        <item>모두</item>
+        <item>즐겨찾기</item>
+    </string-array>
+    <string-array name="password_generator_buttons">
+        <item>숫자</item>
+        <item>기호</item>
+        <item>대문자</item>
+    </string-array>
+    <string-array name="general_ui_column_labels">
+        <item>외관</item>
+        <item>개인 정보</item>
+        <item>도움말</item>
+    </string-array>
+    <string-array name="language_list">
+        <item>영어</item>
+        <item>아랍어</item>
+        <item>스페인어</item>
+        <item>프랑스어</item>
+        <item>힌디어</item>
+        <item>아르메니아어</item>
+        <item>일본어</item>
+        <item>카자흐어</item>
+        <item>한국어</item>
+        <item>몽골어</item>
+        <item>폴란드어</item>
+        <item>포르투갈어</item>
+        <item>러시아어</item>
+        <item>우크라이나어</item>
+        <item>우즈베크어</item>
+        <item>베트남어</item>
+        <item>중국어</item>
+    </string-array>
+    <string-array name="faq_question_list">
+        <item>내 로그인 정보와 비밀번호는 어떻게 안전하게 귀하의 응용 프로그램에 저장됩니까?</item>
+        <item>귀하의 응용 프로그램에 로컬로 저장된 비밀번호의 보안을 신뢰할 수 있습니까?</item>
+        <item>응용 프로그램의 비밀번호를 잊어 버리면 어떻게 됩니까? 복구할 수 있는 방법이 있습니까?</item>
+        <item>나를 제외한 누군가가 내 로그인 정보와 비밀번호에 접근할 수 있습니까?</item>
+    </string-array>
+    <string-array name="faq_answer_list">
+        <item>귀하의 데이터는 귀하의 장치에만 저장되며, 우리는 제3자에게 전송하기 위해 수집하지 않습니다.</item>
+        <item>절대로 그렇습니다. 우리는 최신의 end-to-end 암호화를 사용합니다. 게다가 각 장치에 대해 고유 한 키가 생성되어 대규모 해킹 시도를 방지합니다.</item>
+        <item>응용 프로그램 비밀번호를 잊어 버리면 데이터를 복구하려면 비밀 단어를 입력해야합니다. 최상의 조합을 찾아 설정에서 항상 확인하고 변경할 수 있습니다. 그러나 PIN과 비밀 단어를 모두 잊어 버리면 계정에 다시 액세스 할 수 없게 됩니다.</item>
+        <item>아니요, 우리는 귀하의 동의없이 데이터를 요청하거나 수집하지 않습니다.</item>
+    </string-array>
+</resources>

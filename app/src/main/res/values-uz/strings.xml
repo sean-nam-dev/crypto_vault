@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="create_pin_code">PIN-kod yaratish</string>
+    <string name="re_enter_pin_code">PIN-kodni qayta kiriting</string>
+    <string name="enter_pin_code">PIN-kodni kiriting</string>
+    <string name="answer">Javob</string>
+    <string name="biometric_authentication">Biometrik autentifikatsiya</string>
+    <string name="confirm">Tasdiqlash</string>
+    <string name="question_answer_field_is_blank">Savol yoki javob maydoni bo\'sh</string>
+    <string name="incorrect_pin_code_tries_remaining">Noto\'g\'ri PIN-kod. Qolgan urinishlar-</string>
+    <string name="cancel">Bekor qilish</string>
+    <string name="restore_account">Hisobni tiklash</string>
+    <string name="create_new_account">Yangi hisob yaratish</string>
+    <string name="are_you_sure">Ishonchingiz komilmi?</string>
+    <string name="all_data_will_be_cleared">Barcha ma\'lumotlar o\'chirib tashlanadi va ularni tiklash imkoni bo\'lmaydi</string>
+    <string name="ok">OK</string>
+    <string name="you_can_change_pin_code">Siz sozlamalarda PIN-kodni o\'zgartirishingiz mumkin</string>
+    <string name="wrong_answer">Noto\'g\'ri javob</string>
+    <string name="username">Foydalanuvchi nomi</string>
+    <string name="password">Parol</string>
+    <string name="open_in_browser">Brauzerda ochish</string>
+    <string name="this_action_will_permanently_delete">Ushbu amal to\'liq ravishda parolingizni o\'chiradi</string>
+    <string name="incorrect_link">Noto\'g\'ri havola</string>
+    <string name="sort_by">Tartiblash bo\'yicha</string>
+    <string name="restore">Tiklash</string>
+    <string name="has_been_deleted_successfully">Muvaffaqiyatli o\'chirildi</string>
+    <string name="new_vault">Yangi xizmat</string>
+    <string name="required">*majburiy</string>
+    <string name="search">Qidirish…</string>
+    <string name="fill_required_fields">Majburiy maydonlarni to\'ldiring</string>
+    <string name="generate">Generatsiya qilish</string>
+    <string name="symbols">belgilar</string>
+    <string name="new_card">Yangi karta</string>
+    <string name="navigation_panel">Navigatsiya</string>
+    <string name="vaults">XIZMATLAR</string>
+    <string name="cards">KARTALAR</string>
+    <string name="secured_passwords">XAVFSIZ PAROLLAR</string>
+    <string name="reused_passwords">QAYTA ISHLANADIGAN PAROLLAR</string>
+    <string name="attention_needed">DIQQAT KERAK</string>
+    <string name="some_of_your_passwords_seem_vulnerable">Ba\'zi parollaringiz kamchilikka uchrayapti</string>
+    <string name="browse">Ko\'rish</string>
+    <string name="favorite">Sevimlilardan</string>
+    <string name="edit">Tahrirlash</string>
+    <string name="delete">O\'chirish</string>
+    <string name="characters">BELGILAR</string>
+    <string name="change">O\'ZGARISH</string>
+    <string name="successfully_copied">Muvaffaqiyatli nusxalandi</string>
+    <string name="language">Til</string>
+    <string name="pin_and_secret_word">PIN va Maxfiy So\'z</string>
+    <string name="contact_us">Biz bilan bog\'lanish</string>
+    <string name="faq">KDS</string>
+    <string name="you_can_reach_out_to_us_via">Dasturimizdagi xatoliklar yoki takliflar bo\'yicha biz bilan quyidagi elektron pochta orqali bog\'lanishingiz mumkin:</string>
+    <string name="official_gmail">Rasmiy gmail</string>
+    <string name="pin_code">PIN-kod</string>
+    <string name="secret_word">Maxfiy So\'z</string>
+    <string name="pin_code_must_contain_only_4_digits">PIN-kod faqat 4 raqamdan iborat bo\'lishi kerak</string>
+    <string name="new_pin_code_was_successfully_saved">Yangi PIN-kod muvaffaqiyatli saqlandi</string>
+    <string name="secret_word_must_contain_at_least">Maxfiy So\'z kamida 1 belgidan iborat bo\'lishi kerak</string>
+    <string name="new_secret_word_was_successfully_saved">Yangi Maxfiy So\'z muvaffaqiyatli saqlandi</string>
+
+    <string name="home">Bosh sahifa</string>
+    <string name="statistics">Statistika</string>
+    <string name="password_generator">Parol yaratuvchisi</string>
+    <string name="settings">Sozlamalar</string>
+
+    <string-array name="security_question_list">
+        <item>Siz qaysi shaharda tug\'ilgansiz?</item>
+        <item>Sizning birinchi egalar mashin nima edi?</item>
+        <item>Sizning sevimli tarixiy shaxsiyati kim?</item>
+        <item>Sizning sevimli kitobingiz qanday?</item>
+        <item>Sizning sevimli filmingiz qanday?</item>
+        <item>Sizning onangizning kunlari familiyasi nima?</item>
+        <item>Sizning birinchi uy hayvoni nomi nima edi?</item>
+        <item>Sizning birinchi mobil telefoningizning modeli nima edi?</item>
+        <item>Sizning sevimli ta\'til manzilingiz qanday?</item>
+        <item>Sizning bolalar do\'stingizning ismi nima edi?</item>
+    </string-array>
+    <string-array name="option_menu_pin_list">
+        <item>Sevimlilardan</item>
+        <item>Tahrirlash</item>
+        <item>O\'chirish</item>
+    </string-array>
+    <string-array name="sorting_type_list">
+        <item>Yaratilgan sana</item>
+        <item>Xizmat nomi</item>
+        <item>Foydalanuvchi nomi</item>
+    </string-array>
+    <string-array name="vault_creation_label_list">
+        <item>Xizmat</item>
+        <item>Foydalanuvchi nomi</item>
+        <item>Havola</item>
+        <item>Parol</item>
+    </string-array>
+    <string-array name="vault_creation_username_list">
+        <item>Gmail, Facebook, Instagram…</item>
+        <item>Foydalanuvchi nomi, pochta, identifikator…</item>
+        <item>https://www.example.com</item>
+        <item>123 yoki qwertydan foydalanishni evaz qiling</item>
+    </string-array>
+    <string-array name="switch_content_list">
+        <item>Raqamlar</item>
+        <item>Maxfiy belgilar</item>
+        <item>Katta harflar</item>
+    </string-array>Bank nomi
+    <string-array name="card_creation_label_list">
+        <item>Bank nomi</item>
+        <item>Karta raqami</item>
+        <item>CVV</item>
+        <item>Amal qilish muddati</item>
+        <item>To\'liq ismi</item>
+    </string-array>
+    <string-array name="card_creation_placeholder_list">
+        <item>Visa, Mastercard va h.k.</item>
+        <item>0000 0000 0000 0000</item>
+        <item>123</item>
+        <item>12/24</item>
+        <item>John Doe</item>
+    </string-array>
+    <string-array name="problem_list">
+        <item>UZUNLIK</item>
+        <item>RAQAMLAR</item>
+        <item>KICHIKLAR</item>
+        <item>KATTA HARFLAR</item>
+        <item>MAXFIY BELGILAR</item>
+    </string-array>
+    <string-array name="pager_navigation_block_titles">
+        <item>XIZMATLAR</item>
+        <item>KARTALAR</item>
+    </string-array>
+    <string-array name="pager_navigation_block_subtitles">
+        <item>Barcha xizmatlaringiz uchun xavfsiz joy</item>
+        <item>Barcha kartalaringiz uchun xavfsiz joy</item>
+    </string-array>
+    <string-array name="button_row_with_main_button_texts">
+        <item>HAMMASI</item>
+        <item>SEVIMLILARDAN</item>
+    </string-array>
+    <string-array name="password_generator_buttons">
+        <item>RAQAM</item>
+        <item>MAXFIY BELGI</item>
+        <item>KATTA HARF</item>
+    </string-array>
+    <string-array name="general_ui_column_labels">
+        <item>Ko\'rinish</item>
+        <item>Maxfiylik</item>
+        <item>Yordam</item>
+    </string-array>
+    <string-array name="language_list">
+        <item>Inglizcha</item>
+        <item>Arabcha</item>
+        <item>Ispancha</item>
+        <item>Fransuzcha</item>
+        <item>Hindcha</item>
+        <item>Armancha</item>
+        <item>Yaponcha</item>
+        <item>Kazaxcha</item>
+        <item>Koreyscha</item>
+        <item>Monqolcha</item>
+        <item>Polsha</item>
+        <item>Portugalcha</item>
+        <item>Ruscha</item>
+        <item>Ukraincha</item>
+        <item>O\'zbekcha</item>
+        <item>Vyetnamcha</item>
+        <item>Xitoycha</item>
+    </string-array>
+    <string-array name="faq_question_list">
+        <item>Identifikatorlarim va parollarim qanday xavfsiz saqlanadi?</item>
+        <item>Lokal saqlangan parollarga ishonishim mumkinmi?</item>
+        <item>Agar dasturni parolini unutsam, uni qanday qaytarib olishim mumkin?</item>
+        <item>Men tashqi odamlar identifikatorlarim va parollarimga kirishi mumkinmi?</item>
+    </string-array>
+    <string-array name="faq_answer_list">
+        <item>Sizning ma\'lumotlaringiz faqatgina sizning qurilmangizda saqlanadi va biz ularni uchuncha bo\'lmagan shaxslarga o\'tkazish uchun jamoatga yubormaymiz.</item>
+        <item>Haqiqatan ham, chunki biz zamonaviy uchdan boshlab uch xavfsizlikni qo\'llaymiz. Bundan tashqari, har bir qurilma uchun maxsus kalit yaratiladi, bu esa massov piratlik harakatlarini oldini oladi.</item>
+        <item>Dastur parolini unutganingizda, ma\'lumotlarni tiklash uchun Maxfiy So\'zni kiritishingiz kerak bo\'ladi. Siz uni sozlamalarda har doim tekshirib va o\'zgartirishingiz mumkin, eng yaxshi kombinatsiyani topishingiz kerak. Lekin, agar siz PIN-kodni va Maxfiy So\'zni ham unutsangiz, siz hisobingizga kirishni tiklash imkoni bo\'lmaydi.</item>
+        <item>Yo\'q, chunki biz sizning ruxsatingiz olmaksizin hech qanday ma\'lumotlaringizni so\'ralmaymiz yoki to\'plashmaymiz.</item>
+    </string-array>
+
+</resources>

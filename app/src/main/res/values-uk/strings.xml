@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="create_pin_code">Створити PIN-код</string>
+    <string name="re_enter_pin_code">Повторно ввести PIN-код</string>
+    <string name="enter_pin_code">Ввести PIN-код</string>
+    <string name="answer">Відповідь</string>
+    <string name="biometric_authentication">Біометрична автентифікація</string>
+    <string name="confirm">Підтвердити</string>
+    <string name="question_answer_field_is_blank">Поле питання або відповіді порожнє</string>
+    <string name="incorrect_pin_code_tries_remaining">Невірний PIN-код. Спроб залишилося-</string>
+    <string name="cancel">Скасувати</string>
+    <string name="restore_account">Відновити обліковий запис</string>
+    <string name="create_new_account">Створити новий обліковий запис</string>
+    <string name="are_you_sure">Ви впевнені?</string>
+    <string name="all_data_will_be_cleared">Всі дані будуть очищені, і ви не зможете їх відновити</string>
+    <string name="ok">OK</string>
+    <string name="you_can_change_pin_code">Ви можете змінити PIN-код в налаштуваннях</string>
+    <string name="wrong_answer">Неправильна відповідь</string>
+    <string name="username">Ім\'я користувача</string>
+    <string name="password">Пароль</string>
+    <string name="open_in_browser">Відкрити в браузері</string>
+    <string name="this_action_will_permanently_delete">Ця дія назавжди видалить ваш пароль</string>
+    <string name="incorrect_link">Невірне посилання</string>
+    <string name="sort_by">Сортувати за</string>
+    <string name="restore">Відновити</string>
+    <string name="has_been_deleted_successfully">Успішно видалено</string>
+    <string name="new_vault">Новий сховище</string>
+    <string name="required">*обов\'язково</string>
+    <string name="search">Пошук…</string>
+    <string name="fill_required_fields">Заповніть обов\'язкові поля</string>
+    <string name="generate">Згенерувати</string>
+    <string name="symbols">символи</string>
+    <string name="new_card">Нова картка</string>
+    <string name="navigation_panel">Навігація</string>
+    <string name="vaults">СХОВИЩА</string>
+    <string name="cards">КАРТИ</string>
+    <string name="secured_passwords">ЗАХИЩЕНІ ПАРОЛІ</string>
+    <string name="reused_passwords">ПЕРЕВИКОРИСТАНІ ПАРОЛІ</string>
+    <string name="attention_needed">ПОТРІБНА УВАГА</string>
+    <string name="some_of_your_passwords_seem_vulnerable">Деякі з ваших паролів виглядають вразливими</string>
+    <string name="browse">Перегляд</string>
+    <string name="favorite">Вподобане</string>
+    <string name="edit">Редагувати</string>
+    <string name="delete">Видалити</string>
+    <string name="characters">СИМВОЛИ</string>
+    <string name="change">ЗМІНИТИ</string>
+    <string name="successfully_copied">Успішно скопійовано</string>
+    <string name="language">Мова</string>
+    <string name="pin_and_secret_word">PIN та секретне слово</string>
+    <string name="contact_us">Зв\'яжіться з нами</string>
+    <string name="faq">Часті запитання</string>
+    <string name="you_can_reach_out_to_us_via">Ви можете зв\'язатися з нами за допомогою цього електронного листа у випадку будь-яких помилок або пропозицій:</string>
+    <string name="official_gmail">Офіційна пошта</string>
+    <string name="pin_code">PIN-код</string>
+    <string name="secret_word">Секретне слово</string>
+    <string name="pin_code_must_contain_only_4_digits">PIN-код повинен містити лише 4 цифри</string>
+    <string name="new_pin_code_was_successfully_saved">Новий PIN-код був успішно збережений</string>
+    <string name="secret_word_must_contain_at_least">Секретне слово повинно містити принаймні 1 символ</string>
+    <string name="new_secret_word_was_successfully_saved">Нове секретне слово було успішно збережено</string>
+
+    <string name="home">Головна</string>
+    <string name="statistics">Статистика</string>
+    <string name="password_generator">Генератор паролів</string>
+    <string name="settings">Налаштування</string>
+
+    <string-array name="security_question_list">
+        <item>У якому місті ви народилися?</item>
+        <item>Яка була ваша перша машина?</item>
+        <item>Хто ваш улюблений історичний діяч?</item>
+        <item>Яка ваша улюблена книга?</item>
+        <item>Який ваш улюблений фільм?</item>
+        <item>Яке дівоче прізвище вашої матері?</item>
+        <item>Як звали вашого першого домашнього улюбленця?</item>
+        <item>Яка модель вашого першого мобільного телефону?</item>
+        <item>Який ваш улюблений місцевий
+
+ відпочинок?</item>
+        <item>Як звали вашого кращого друга у дитинстві?</item>
+    </string-array>
+    <string-array name="option_menu_pin_list">
+        <item>Вподобане</item>
+        <item>Редагувати</item>
+        <item>Видалити</item>
+    </string-array>
+    <string-array name="sorting_type_list">
+        <item>Дата створення</item>
+        <item>Назва сервісу</item>
+        <item>Ім\'я користувача</item>
+    </string-array>
+    <string-array name="vault_creation_label_list">
+        <item>Сервіс</item>
+        <item>Ім\'я користувача</item>
+        <item>Посилання</item>
+        <item>Пароль</item>
+    </string-array>
+    <string-array name="vault_creation_username_list">
+        <item>Gmail, Facebook, Instagram…</item>
+        <item>Ім\'я користувача, пошта, ідентифікатор…</item>
+        <item>https://www.example.com</item>
+        <item>Уникайте використання 123 або qwerty</item>
+    </string-array>
+    <string-array name="switch_content_list">
+        <item>Цифри</item>
+        <item>Спеціальні символи</item>
+        <item>Прописні літери</item>
+    </string-array>
+    <string-array name="card_creation_label_list">
+        <item>Visa, Mastercard тощо</item>
+        <item>Номер картки</item>
+        <item>CVV</item>
+        <item>Дійсний до</item>
+        <item>Повне ім\'я</item>
+    </string-array>
+    <string-array name="card_creation_placeholder_list">
+        <item>Назва банку</item>
+        <item>0000 0000 0000 0000</item>
+        <item>123</item>
+        <item>12/24</item>
+        <item>Іван Іванов</item>
+    </string-array>
+    <string-array name="problem_list">
+        <item>ДОВЖИНА</item>
+        <item>ЦИФРИ</item>
+        <item>МАЛІ ЛІТЕРИ</item>
+        <item>ВЕЛИКІ ЛІТЕРИ</item>
+        <item>СИМВОЛИ</item>
+    </string-array>
+    <string-array name="pager_navigation_block_titles">
+        <item>СХОВИЩА</item>
+        <item>КАРТИ</item>
+    </string-array>
+    <string-array name="pager_navigation_block_subtitles">
+        <item>Безпечне місце для всіх ваших сховищ</item>
+        <item>Безпечне місце для всіх ваших карток</item>
+    </string-array>
+    <string-array name="button_row_with_main_button_texts">
+        <item>УСІ</item>
+        <item>ВПОДОБАНЕ</item>
+    </string-array>
+    <string-array name="password_generator_buttons">
+        <item>ЦИФРИ</item>
+        <item>СИМВОЛИ</item>
+        <item>ПРОПИСНІ ЛІТЕРИ</item>
+    </string-array>
+    <string-array name="general_ui_column_labels">
+        <item>Зовнішній вигляд</item>
+        <item>Конфіденційність</item>
+        <item>Довідка</item>
+    </string-array>
+    <string-array name="language_list">
+        <item>Англійська</item>
+        <item>Арабська</item>
+        <item>Іспанська</item>
+        <item>Французька</item>
+        <item>Гінді</item>
+        <item>Вірменська</item>
+        <item>Японська</item>
+        <item>Казахська</item>
+        <item>Корейська</item>
+        <item>Монгольська</item>
+        <item>Польська</item>
+        <item>Португальська</item>
+        <item>Російська</item>
+        <item>Українська</item>
+        <item>Узбецька</item>
+        <item>В\'єтнамська</item>
+        <item>Китайська</item>
+    </string-array>
+
+    <string-array name="faq_question_list">
+        <item>Як мої логіни та паролі безпечно зберігаються в вашому додатку?</item>
+        <item>Чи можна довіряти безпеці локально збережених паролів у вашому додатку?</item>
+        <item>Що станеться, якщо я забуду пароль до додатку? Чи є спосіб відновлення його?</item>
+        <item>Чи може крім мене хтось інший отримати доступ до моїх логінів та паролів?</item>
+    </string-array>
+    <string-array name="faq_answer_list">
+        <item>Ваші дані зберігаються виключно на вашому пристрої, і ми не збираємо їх для передачі третім особам.</item>
+        <item>Звичайно, оскільки ми використовуємо сучасне кінцеве шифрування. Крім того, для кожного пристрою створюється унікальний ключ, що запобігає масовим спробам вторгнення.</item>
+        <item>Якщо ви забудете пароль до додатку, вам потрібно буде ввести Секретне слово для відновлення даних. Ви завжди можете перевірити і змінити його в налаштуваннях, знаходячи найкращу комбінацію. Однак, якщо ви забудете як свій PIN, так і Секретне слово, ви не зможете відновити доступ до свого облікового запису.</item>
+        <item>Ні, оскільки ми ніколи не запитуємо або не збираємо ваші дані без вашої згоди.</item>
+    </string-array>
+</resources>

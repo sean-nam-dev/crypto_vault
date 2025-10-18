@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="create_pin_code">Tạo mã PIN</string>
+    <string name="re_enter_pin_code">Nhập lại mã PIN</string>
+    <string name="enter_pin_code">Nhập mã PIN</string>
+    <string name="answer">Trả lời</string>
+    <string name="biometric_authentication">Xác thực sinh trắc học</string>
+    <string name="confirm">Xác nhận</string>
+    <string name="question_answer_field_is_blank">Trường câu hỏi hoặc câu trả lời đang trống</string>
+    <string name="incorrect_pin_code_tries_remaining">Mã PIN không chính xác. Còn lại số lần thử -</string>
+    <string name="cancel">Hủy bỏ</string>
+    <string name="restore_account">Khôi phục tài khoản</string>
+    <string name="create_new_account">Tạo tài khoản mới</string>
+    <string name="are_you_sure">Bạn có chắc chắn?</string>
+    <string name="all_data_will_be_cleared">Tất cả dữ liệu sẽ được xóa và bạn sẽ không thể khôi phục chúng</string>
+    <string name="ok">OK</string>
+    <string name="you_can_change_pin_code">Bạn có thể thay đổi mã PIN trong cài đặt</string>
+    <string name="wrong_answer">Câu trả lời sai</string>
+    <string name="username">Tên người dùng</string>
+    <string name="password">Mật khẩu</string>
+    <string name="open_in_browser">Mở trong trình duyệt</string>
+    <string name="this_action_will_permanently_delete">Hành động này sẽ xóa mật khẩu của bạn vĩnh viễn</string>
+    <string name="incorrect_link">Liên kết không chính xác</string>
+    <string name="sort_by">Sắp xếp theo</string>
+    <string name="restore">Khôi phục</string>
+    <string name="has_been_deleted_successfully">Đã xóa thành công</string>
+    <string name="new_vault">Kho mới</string>
+    <string name="required">* bắt buộc</string>
+    <string name="search">Tìm kiếm…</string>
+    <string name="fill_required_fields">Điền vào các trường bắt buộc</string>
+    <string name="generate">Tạo</string>
+    <string name="symbols">ký tự</string>
+    <string name="new_card">Thẻ mới</string>
+    <string name="navigation_panel">Điều hướng</string>
+    <string name="vaults">KHO</string>
+    <string name="cards">THẺ</string>
+    <string name="secured_passwords">MẬT KHẨU ĐƯỢC BẢO VỆ</string>
+    <string name="reused_passwords">MẬT KHẨU ĐÃ SỬ DỤNG LẠI</string>
+    <string name="attention_needed">CẦN CHÚ Ý</string>
+    <string name="some_of_your_passwords_seem_vulnerable">Một số mật khẩu của bạn có vẻ không an toàn</string>
+    <string name="browse">Duyệt</string>
+    <string name="favorite">Yêu thích</string>
+    <string name="edit">Chỉnh sửa</string>
+    <string name="delete">Xóa</string>
+    <string name="characters">KÝ TỰ</string>
+    <string name="change">THAY ĐỔI</string>
+    <string name="successfully_copied">Sao chép thành công</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="pin_and_secret_word">Mã PIN và Từ Khóa Bí Mật</string>
+    <string name="contact_us">Liên hệ với chúng tôi</string>
+    <string name="faq">Câu hỏi thường gặp</string>
+    <string name="you_can_reach_out_to_us_via">Bạn có thể liên hệ với chúng tôi qua email này trong trường hợp có bất kỳ lỗi hoặc đề xuất nào:</string>
+    <string name="official_gmail">Gmail chính thức</string>
+    <string name="pin_code">Mã PIN</string>
+    <string name="secret_word">Từ Khóa Bí Mật</string>
+    <string name="pin_code_must_contain_only_4_digits">Mã PIN phải chứa chỉ 4 chữ số</string>
+    <string name="new_pin_code_was_successfully_saved">Mã PIN mới đã được lưu thành công</string>
+    <string name="secret_word_must_contain_at_least">Từ Khóa Bí Mật phải chứa ít nhất 1 ký tự</string>
+    <string name="new_secret_word_was_successfully_saved">Từ Khóa Bí Mật mới đã được lưu thành công</string>
+
+    <string name="home">Trang chủ</string>
+    <string name="statistics">Thống kê</string>
+    <string name="password_generator">Công cụ Tạo Mật khẩu</string>
+    <string name="settings">Cài đặt</string>
+
+    <string-array name="security_question_list">
+        <item>Bạn sinh ra ở thành phố nào?</item>
+        <item>Xe hơi đầu tiên bạn sở hữu là gì?</item>
+        <item>Người nổi tiếng lịch sử yêu thích của bạn là ai?</item>
+        <item>Sách yêu thích của bạn là gì?</item>
+        <item>Phim yêu thích của bạn là gì?</item>
+        <item>Tên gợi nhớ của mẹ bạn là gì?</item>
+        <item>Tên con thú cưng đầu tiên của bạn là gì?</item>
+        <item>Mẫu điện thoại di động đầu tiên của bạn là gì?</item>
+        <item>Điểm nghỉ dưỡng yêu thích của bạn là gì?</item>
+        <item>Tên bạn của bạn bạn thân từ thời thơ ấu là gì?</item>
+    </string-array>
+    <string-array name="option_menu_pin_list">
+        <item>Yêu thích</item>
+        <item>Chỉnh sửa</item>
+        <item>Xóa</item>
+    </string-array>
+    <string-array name="sorting_type_list">
+        <item>Ngày tạo</item>
+        <item>Tên dịch vụ</item>
+        <item>Tên người dùng</item>
+    </string-array>
+    <string-array name="vault_creation_label_list">
+        <item>Dịch vụ</item>
+        <item>Tên người dùng</item>
+        <item>Liên kết</item>
+        <item>Mật khẩu</item>
+    </string-array>
+    <string-array name="vault_creation_username_list">
+        <item>Gmail, Facebook, Instagram…</item>
+        <item>Tên người dùng, email, id…</item>
+        <item>https://www.example.com</item>
+        <item>Tránh sử dụng 123 hoặc qwerty</item>
+    </string-array>
+    <string-array name="switch_content_list">
+        <item>Số</item>
+        <item>Dấu hiệu đặc biệt</item>
+        <item>Chữ in hoa</item>
+    </string-array>
+    <string-array name="card_creation_label_list">
+        <item>Visa, MasterCard, v.v</item>
+        <item>Số thẻ</item>
+        <item>CVV</item>
+        <item>Hiệu lực đến</item>
+        <item>Tên đầy đủ</item>
+    </string-array>
+    <string-array name="card_creation_placeholder_list">
+        <item>Tên ngân hàng</item>
+        <item>0000 0000 0000 0000</item>
+        <item>123</item>
+        <item>12/24</item>
+        <item>John Doe</item>
+    </string-array>
+    <string-array name="problem_list">
+        <item>ĐỘ DÀI</item>
+        <item>CHỮ SỐ</item>
+        <item>CHỮ THƯỜNG</item>
+        <item>CHỮ IN HOA</item>
+        <item>DẤU HIỆU</item>
+    </string-array>
+    <string-array name="pager_navigation_block_titles">
+        <item>KHO</item>
+        <item>THẺ</item>
+    </string-array>
+    <string-array name="pager_navigation_block_subtitles">
+        <item>Nơi an toàn cho tất cả các kho của bạn</item>
+        <item>Nơi an toàn cho tất cả các thẻ của bạn</item>
+    </string-array>
+    <string-array name="button_row_with_main_button_texts">
+        <item>TẤT CẢ</item>
+        <item>YÊU THÍCH</item>
+    </string-array>
+    <string-array name="password_generator_buttons">
+        <item>CHỮ SỐ</item>
+        <item>DẤU HIỆU</item>
+        <item>CHỮ IN HOA</item>
+    </string-array>
+    <string-array name="general_ui_column_labels">
+        <item>Xuất hiện</item>
+        <item>Quyền riêng tư</item>
+        <item>Trợ giúp</item>
+    </string-array>
+    <string-array name="language_list">
+        <item>Tiếng Anh</item>
+        <item>Tiếng Ả Rập</item>
+        <item>Tiếng Tây Ban Nha</item>
+        <item>Tiếng Pháp</item>
+        <item>Tiếng Hin-ddi</item>
+        <item>Tiếng Armenia</item>
+        <item>Tiếng Nhật</item>
+        <item>Tiếng Kazakh</item>
+        <item>Tiếng Hàn</item>
+        <item>Tiếng Mông Cổ</item>
+        <item>Tiếng Ba Lan</item>
+        <item>Tiếng Bồ Đào Nha</item>
+        <item>Tiếng Nga</item>
+        <item>Tiếng Ukraina</item>
+        <item>Tiếng Uzbek</item>
+        <item>Tiếng Việt</item>
+        <item>Tiếng Trung</item>
+    </string-array>
+    <string-array name="faq_question_list">
+        <item>Dữ liệu đăng nhập và mật khẩu của tôi được lưu trữ an toàn như thế nào trong ứng dụng của bạn?</item>
+        <item>Tôi có thể tin tưởng vào tính bảo mật của mật khẩu được lưu trữ cục bộ trong ứng dụng của bạn không?</item>
+        <item>Điều gì sẽ xảy ra nếu tôi quên mật khẩu của ứng dụng? Có cách nào để khôi phục không?</item>
+        <item>Liệu có ai khác ngoài tôi có thể truy cập vào các dữ liệu đăng nhập và mật khẩu của tôi không?</item>
+    </string-array>
+    <string-array name="faq_answer_list">
+        <item>Dữ liệu của bạn được lưu trữ độc quyền trên thiết bị của bạn và chúng tôi không thu thập nó để chuyển giao cho bên thứ ba.</item>
+        <item>Chắc chắn, vì chúng tôi sử dụng mã hóa end-to-end hiện đại. Hơn nữa, một khóa duy nhất được tạo ra cho mỗi thiết bị, ngăn chặn các cuộc tấn công hacking hàng loạt.</item>
+        <item>Nếu bạn quên mật khẩu ứng dụng, bạn sẽ cần nhập Từ Khóa Bí Mật để khôi phục dữ liệu. Bạn luôn có thể kiểm tra và thay đổi nó trong cài đặt bằng cách tìm ra sự kết hợp tốt nhất. Tuy nhiên, nếu bạn quên cả mã PIN và Từ Khóa Bí Mật của mình, bạn sẽ không thể khôi phục lại quyền truy cập vào tài khoản của mình.</item>
+        <item>Không, vì chúng tôi không bao giờ yêu cầu hoặc thu thập dữ liệu của bạn mà không có sự đồng ý của bạn.</item>
+    </string-array>
+</resources>
