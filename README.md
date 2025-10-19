@@ -35,6 +35,6 @@ CryptoVault encrypts each password entry using a **device-unique key** stored lo
 ## 📂 Installation
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/cryptovault.git
+git clone https://github.com/sean-nam-dev/cryptovault.git
 
 # Open in Android Studio and run the app
